@@ -1,0 +1,17 @@
+{
+  "title": "Geroi in the Far North",
+  "description": "A Japanese manga series written and illustrated by Kakizaki Masasumi. It started serialization in 2025 in Gekkan Sunday.",
+  "artist": "Kakizaki Masasumi",
+  "author": "Kakizaki Masasumi",
+  "cover": "https://meo.comick.pictures/NrkeQX.jpg",
+  "chapters": {
+    "1": {
+      "title": "End of the War",
+      "volume": "1",
+      "groups": {
+        "Year Zero": "/proxy/api/imgur/chapter/chapter-1-end-of-war-165vHyE/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
