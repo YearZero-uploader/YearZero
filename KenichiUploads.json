@@ -34,14 +34,14 @@
       "groups": {
         "Year Zero": "/proxy/api/imgur/chapter/chapter-4-hidden-meaning-ygrZn7C/"
       },
-                  "last_updated": "1750460295"
+     "last_updated": "1750460295"
     },"5": {
       "title": "From Defense to Offense",
       "volume": "1",
-      "last_updated": "1748288753",
       "groups": {
         "Year Zero": "/proxy/api/imgur/chapter/chapter-5-from-defense-to-offense-VrNRpKX/"
-      }
+      },
+      "last_updated": "1748288753"
     },"6": {
       "title": "Go to That Place!",
       "volume": "1",
@@ -52,10 +52,10 @@
     },"7": {
       "title": "Ryozanpaku",
       "volume": "1",
-      "last_updated": "1750460295",
       "groups": {
         "Year Zero": "/proxy/api/imgur/chapter/chapter-7-ryozanpaku-DFSylm0/"
-      }
+      },
+      "last_updated": "1748288753"
     }
       
     }
