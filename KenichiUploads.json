@@ -6,19 +6,55 @@
   "cover": "https://meo.comick.pictures/vOb-m.jpg",
   "chapters": {
     "1": {
-      "title": "The Highschool Girl Who's Like an Assassin",
+      "title": "The Highschool Girl Who's Like An Assassin",
       "volume": "1",
       "last_updated": "1748288753",
       "groups": {
-        "Year Zero": "/proxy/api/imgur/chapter/T1VzN5N/"
+        "Year Zero": "/proxy/api/imgur/chapter/chapter-1-highschool-girl-whos-like-assassin-KV0yUmQ/"
       }
     },"2": {
-      "title": "Testing Cubari",
+      "title": "The Big Incident",
       "volume": "1",
       "last_updated": "1748383512",
       "groups": {
-        "Year Zero": "/proxy/api/imgur/chapter/tH6JPnl/"
+        "Year Zero": "/proxy/api/imgur/chapter/chapter-2-big-incident-vJwiGiO/"
+      }, "3": {
+      "title": "Lesson One: Defence",
+      "volume": "1",
+      "last_updated": "1748288753",
+      "groups": {
+        "Year Zero": "/proxy/api/imgur/chapter/chapter-3-lesson-one-defence-xQ6npG6/"
       }
+    },"4": {
+      "title": "The Hidden Meaning",
+      "volume": "1",
+      "last_updated": "1748288753",
+      "groups": {
+        "Year Zero": "/proxy/api/imgur/chapter/chapter-4-hidden-meaning-ygrZn7C/"
+      }
+    },"5": {
+      "title": "From Defense to Offense",
+      "volume": "1",
+      "last_updated": "1748288753",
+      "groups": {
+        "Year Zero": "/proxy/api/imgur/chapter/chapter-5-from-defense-to-offense-VrNRpKX/"
+      }
+    },"6": {
+      "title": "Go to That Place!",
+      "volume": "1",
+      "last_updated": "1748288753",
+      "groups": {
+        "Year Zero": "/proxy/api/imgur/chapter/chapter-6-go-to-that-place-j15lcCs/"
+      }
+    },"7": {
+      "title": "Ryozanpaku",
+      "volume": "1",
+      "last_updated": "1748288753",
+      "groups": {
+        "Year Zero": "/proxy/api/imgur/chapter/chapter-7-ryozanpaku-DFSylm0/"
+      }
+    },
+      
     }
   }
 }
