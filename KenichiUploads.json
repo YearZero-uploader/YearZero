@@ -8,30 +8,33 @@
     "1": {
       "title": "The Highschool Girl Who's Like An Assassin",
       "volume": "1",
-      "last_updated": "1750460295",
       "groups": {
         "Year Zero": "/proxy/api/imgur/chapter/chapter-1-highschool-girl-whos-like-assassin-KV0yUmQ/"
-      }
+      },
+      "last_updated": "1750460295"
     },"2": {
       "title": "The Big Incident",
       "volume": "1",
-      "last_updated": "1750460295",
       "groups": {
         "Year Zero": "/proxy/api/imgur/chapter/chapter-2-big-incident-ln654OU/"
-      }, "3": {
+      },
+      "last_updated": "1750460295"},
+    "3": {
       "title": "Lesson One: Defence",
       "volume": "1",
-      "last_updated": "1750460295",
+
       "groups": {
         "Year Zero": "/proxy/api/imgur/chapter/chapter-3-lesson-one-defence-xQ6npG6/"
-      }
+      },
+            "last_updated": "1750460295"
     },"4": {
       "title": "The Hidden Meaning",
       "volume": "1",
-      "last_updated": "1750460295",
+
       "groups": {
         "Year Zero": "/proxy/api/imgur/chapter/chapter-4-hidden-meaning-ygrZn7C/"
-      }
+      },
+                  "last_updated": "1750460295"
     },"5": {
       "title": "From Defense to Offense",
       "volume": "1",
