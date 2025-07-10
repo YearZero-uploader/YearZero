@@ -66,15 +66,7 @@
       "volume": "2",
       "last_updated": "1752100661",
       "groups": {
-        "Year Zero": "/proxy/api/imgur/chapter/chapter-8-become-disciple-rVFgKDX"
-      }
-    },
-    "8.6": {
-      "title": "Become The Disciple!",
-      "volume": "2",
-      "last_updated": "1752100661",
-      "groups": {
-        "Year Zero":{ "pages":["https://imgbox.com/PnZcGUkD"]}
+        "Year Zero": "/proxy/api/mangadex/chapter/88726df7-fa87-43e6-b3c6-6b173e538b21"
       }
     },
     "9": {
@@ -147,6 +139,18 @@
       "last_updated": "1752100661",
       "groups": {
         "Year Zero": "/proxy/api/imgur/chapter-17-encounter-during-neigborhood-stroll-Qr5KgNX/"
+      }
+    },
+    "8.6": {
+      "title": "Become The Disciple!",
+      "volume": "2",
+      "last_updated": "1752100661",
+      "groups": {
+        "Year Zero": {
+          "pages": [
+            "https://imgbox.com/PnZcGUkD"
+          ]
+        }
       }
     }
   }
