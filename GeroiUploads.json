@@ -8,26 +8,26 @@
     "1": {
       "title": "End of the War",
       "volume": "1",
+      "last_updated": "1748288753",
       "groups": {
         "Year Zero": "/proxy/api/imgur/chapter/geroi-far-north-165vHyE"
-      },
-      "last_updated": "1748288753"
+      }
     },
-        "2": {
+    "2": {
       "title": "Shumshu",
       "volume": "1",
+      "last_updated": "1750023990",
       "groups": {
         "Year Zero": "/proxy/api/imgur/chapter/shumshu-mFsF7RP"
-      },
-      "last_updated": "1750023990"
+      }
     },
-            "3": {
+    "3": {
       "title": "Harsh Winter",
       "volume": "1",
+      "last_updated": "1752871544",
       "groups": {
         "Year Zero": "/proxy/api/imgur/chapter/harsh-winter-D5IcDZo"
-      },
-      "last_updated": "1752871544"
+      }
     }
   }
 }
