@@ -14,19 +14,55 @@
       }
     },
     "2": {
-      "title": "Shumshu",
+      "title": "2",
       "volume": "1",
-      "last_updated": "1750023990",
+      "last_updated": "1752876373",
       "groups": {
-        "Year Zero": "/proxy/api/imgur/chapter/shumshu-mFsF7RP"
-      }
-    },
-    "3": {
-      "title": "Harsh Winter",
-      "volume": "1",
-      "last_updated": "1752871544",
-      "groups": {
-        "Year Zero": "/proxy/api/imgur/chapter/harsh-winter-D5IcDZo"
+        "Year Zero": [
+          "https://imgbox.com/wHeuhpqU",
+          "https://imgbox.com/jEBuJjsE",
+          "https://imgbox.com/CrEQf4je",
+          "https://imgbox.com/dtoAviKs",
+          "https://imgbox.com/z9VtAcPk",
+          "https://imgbox.com/xvVP0TjD",
+          "https://imgbox.com/vyFOsKn9",
+          "https://imgbox.com/Ym8yvHyw",
+          "https://imgbox.com/Abdo8OqC",
+          "https://imgbox.com/EWu4zo7e",
+          "https://imgbox.com/fX2PXxZM",
+          "https://imgbox.com/iaGwRJmi",
+          "https://imgbox.com/iQmbmOM3",
+          "https://imgbox.com/52ZfItUT",
+          "https://imgbox.com/hc5rhRVO",
+          "https://imgbox.com/7KPRxKEj",
+          "https://imgbox.com/ABPteEi4",
+          "https://imgbox.com/IMMqD83p",
+          "https://imgbox.com/i89GFav8",
+          "https://imgbox.com/0dmmbZpt",
+          "https://imgbox.com/fLMMcLoD",
+          "https://imgbox.com/NNgHvg6Q",
+          "https://imgbox.com/PWwtYmFD",
+          "https://imgbox.com/sZqulJH7",
+          "https://imgbox.com/slknSW5b",
+          "https://imgbox.com/sqoWxek9",
+          "https://imgbox.com/y44sP3tm",
+          "https://imgbox.com/EyVWJGo3",
+          "https://imgbox.com/HyMMGK6i",
+          "https://imgbox.com/3egeqM7s",
+          "https://imgbox.com/RZ47xJvE",
+          "https://imgbox.com/FwUBzWOo",
+          "https://imgbox.com/OVrAXYkA",
+          "https://imgbox.com/8irZUnir",
+          "https://imgbox.com/AsnFgkkC",
+          "https://imgbox.com/mq6LcxI2",
+          "https://imgbox.com/ZRV7it9x",
+          "https://imgbox.com/jzyR33YP",
+          "https://imgbox.com/UrQ1zduQ",
+          "https://imgbox.com/KmFcx0Il",
+          "https://imgbox.com/bUKHSV7O",
+          "https://imgbox.com/oiChj9mP",
+          "https://imgbox.com/8ExsHPqU"
+        ]
       }
     }
   }
