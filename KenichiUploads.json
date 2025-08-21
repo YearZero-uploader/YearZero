@@ -146,7 +146,7 @@
       "volume": "3",
       "last_updated": "1755815516",
       "groups": {
-        "Year Zero": "https://mangadex.org/chapter/b5705685-0e95-4363-9eb0-50f404b4f1c2"
+        "Year Zero": "/proxy/api/mangadex/chapter/b5705685-0e95-4363-9eb0-50f404b4f1c2"
       }
     },
     "19": {
@@ -154,7 +154,7 @@
       "volume": "3",
       "last_updated": "1755815548",
       "groups": {
-        "Year Zero": "https://mangadex.org/chapter/267bd8c9-6480-40c0-8252-61ba06d3b4bf"
+        "Year Zero": "/proxy/api/mangadex/chapter/267bd8c9-6480-40c0-8252-61ba06d3b4bf"
       }
     },
     "20": {
@@ -170,7 +170,7 @@
       "volume": "3",
       "last_updated": "1755815583",
       "groups": {
-        "Year Zero": "https://mangadex.org/chapter/14700db1-9eb3-45bc-92dd-bc6203383efd"
+        "Year Zero": "/proxy/api/mangadex/chapter/14700db1-9eb3-45bc-92dd-bc6203383efd"
       }
     },
     "22": {
@@ -186,7 +186,7 @@
       "volume": "3",
       "last_updated": "1755815651",
       "groups": {
-        "Year Zero": "https://mangadex.org/chapter/7b4bbbca-0357-4968-bb9e-63a8c427f866"
+        "Year Zero": "/proxy/api/mangadex/chapter/7b4bbbca-0357-4968-bb9e-63a8c427f866"
       }
     },
     "24": {
@@ -194,7 +194,7 @@
       "volume": "3",
       "last_updated": "1755815666",
       "groups": {
-        "Year Zero": "https://mangadex.org/chapter/1e53022a-16d5-4725-a19b-b02e67682212"
+        "Year Zero": "/proxy/api/mangadex/chapter/1e53022a-16d5-4725-a19b-b02e67682212"
       }
     },
     "25": {
@@ -202,7 +202,7 @@
       "volume": "3",
       "last_updated": "1755815684",
       "groups": {
-        "Year Zero": "https://mangadex.org/chapter/386767a7-af74-4fb6-b77e-cf83e9c59776"
+        "Year Zero": "/proxy/api/mangadex/chapter/386767a7-af74-4fb6-b77e-cf83e9c59776"
       }
     },
     "26": {
@@ -210,7 +210,7 @@
       "volume": "3",
       "last_updated": "1755815699",
       "groups": {
-        "Year Zero": "https://mangadex.org/chapter/69ba0d15-6ecf-43b7-b0cf-7d412a39aa6f"
+        "Year Zero": "/proxy/api/mangadex/chapter/69ba0d15-6ecf-43b7-b0cf-7d412a39aa6f"
       }
     }
   }
