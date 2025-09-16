@@ -1,0 +1,33 @@
+{
+  "title": "Kingdom Omakes",
+  "description": "",
+  "artist": "Yasuhisa Hara",
+  "author": "Yasuhisa Hara",
+  "cover": "https://imgbox.com/g/ATwKruncRG",
+  "chapters": {
+    "536.5": {
+      "title": "536.5",
+      "volume": "49",
+      "last_updated": "1758022609",
+      "groups": {
+        "": "/proxy/api/imgbox/chapter/hTDXBsFyBA"
+      }
+    },
+    "547.5": {
+      "title": "547.5",
+      "volume": "50",
+      "last_updated": "1758022689",
+      "groups": {
+        "": "/proxy/api/imgbox/chapter/smRAHkMOIV"
+      }
+    },
+    "580.5": {
+      "title": "580.5",
+      "volume": "53",
+      "last_updated": "1758022810",
+      "groups": {
+        "": "/proxy/api/imgbox/chapter/Zibmjmw13d"
+      }
+    }
+  }
+}
