@@ -4,5 +4,14 @@
   "artist": "Nobuyuki Fukumoto",
   "author": "Nobuyuki Fukumoto",
   "cover": "https://i.imgur.com/l3udtfO.jpeg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "One's Dearest Wish",
+      "volume": "1",
+      "last_updated": "1758215278",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgur/chapter/zw8lZo7"
+      }
+    }
+  }
 }
