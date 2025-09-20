@@ -11,9 +11,19 @@
       "last_updated": "1758399399",
       "groups": {
         "Unknown": "/proxy/api/imgbox/chapter/N46Av4LGVa"
-         "V2k": "/proxy/api/imgbox/chapter/XqbrF9lfIs"
+       
       }
     },
+    "1.1": {
+      "title": "Nameless Boy",
+      "volume": "1",
+      "last_updated": "1758399399",
+      "groups": {
+         "V2k": "/proxy/api/imgbox/chapter/XqbrF9lfIs"
+       
+      }
+    },
+    
     "3": {
       "title": "Map",
       "volume": "53",
