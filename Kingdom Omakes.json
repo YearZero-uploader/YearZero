@@ -10,27 +10,7 @@
       "volume": "1",
       "last_updated": "1758399399",
       "groups": {
-          "V2k": "/proxy/api/imgbox/chapter/XqbrF9lfIs"
-       
-       
-      }
-    },
-    "1.1": {
-      "title": "Nameless Boy",
-      "volume": "1",
-      "last_updated": "1758399399",
-      "groups": {
-        "Unknown": "/proxy/api/imgbox/chapter/N46Av4LGVa"
-       
-      }
-    },
-    
-    "2.1": {
-      "title": "Map",
-      "volume": "1",
-      "last_updated": "1758399819",
-      "groups": {
-        "Unknown": "/proxy/api/imgbox/chapter/rkziP6RDmF"
+        "V2k": "/proxy/api/imgbox/chapter/XqbrF9lfIs"
       }
     },
     "2": {
@@ -39,6 +19,134 @@
       "last_updated": "1758399841",
       "groups": {
         "V2k": "/proxy/api/imgbox/chapter/1DtlCNBq1N"
+      }
+    },
+    "3": {
+      "title": "Double",
+      "volume": "1",
+      "last_updated": "1758399911",
+      "groups": {
+        "V2k": "/proxy/api/imgbox/chapter/z7e87jNvqu"
+      }
+    },
+    "4": {
+      "title": "The Rebel's Army Move",
+      "volume": "1",
+      "last_updated": "1758399959",
+      "groups": {
+        "V2k": "/proxy/api/imgbox/chapter/trOMwnGahj"
+      }
+    },
+    "5": {
+      "title": "Little Brother From A Different Mother",
+      "volume": "1",
+      "last_updated": "1758400066",
+      "groups": {
+        "V2k": "/proxy/api/imgbox/chapter/tNOlkPTYwY"
+      }
+    },
+    "6": {
+      "title": "Hyou's Decision",
+      "volume": "1",
+      "last_updated": "1758400096",
+      "groups": {
+        "V2k": "/proxy/api/imgbox/chapter/t4Fq1upLPD"
+      }
+    },
+    "7": {
+      "title": "Assassin That Came From The South",
+      "volume": "1",
+      "last_updated": "1758400200",
+      "groups": {
+        "V2k": "/proxy/api/imgbox/chapter/fekEBO7Wpv"
+      }
+    },
+    "8": {
+      "title": "Monster Bird Of Qin",
+      "volume": "1",
+      "last_updated": "1758400257",
+      "groups": {
+        "Turnip Farmers": "/proxy/api/imgbox/chapter/IIfGlFM9b3"
+      }
+    },
+    "9": {
+      "title": "The Mountain People",
+      "volume": "2",
+      "last_updated": "1758400311",
+      "groups": {
+        "V2k": "/proxy/api/imgbox/chapter/vfDYRK03x4"
+      }
+    },
+    "10": {
+      "title": "Unprepared",
+      "volume": "2",
+      "last_updated": "1758400360",
+      "groups": {
+        "V2k": "/proxy/api/imgbox/chapter/aK2F97LmVI"
+      }
+    },
+    "11": {
+      "title": "Conviction",
+      "volume": "2",
+      "last_updated": "1758400408",
+      "groups": {
+        "V2k": "/proxy/api/imgbox/chapter/6m1ItaaGW7"
+      }
+    },
+    "12": {
+      "title": "Loyal Retainer",
+      "volume": "2",
+      "last_updated": "1758400455",
+      "groups": {
+        "V2k": "/proxy/api/imgbox/chapter/tlJK57cksu"
+      }
+    },
+    "13": {
+      "title": "Heated Battle",
+      "volume": "2",
+      "last_updated": "1758400504",
+      "groups": {
+        "V2k": "/proxy/api/imgbox/chapter/oW72I5W48K"
+      }
+    },
+    "14": {
+      "title": "The Path To General",
+      "volume": "2",
+      "last_updated": "1758400554",
+      "groups": {
+        "V2k": "/proxy/api/imgbox/chapter/nuVygajIC5"
+      }
+    },
+    "15": {
+      "title": "Chancellor Ryofui",
+      "volume": "2",
+      "last_updated": "1758400604",
+      "groups": {
+        "V2k": "/proxy/api/imgbox/chapter/D0j7gxFxzS"
+      }
+    },
+    "16": {
+      "title": "300 Horse Liquor Soldiers",
+      "volume": "2",
+      "last_updated": "1758400628",
+      "groups": {
+        "V2k": "/proxy/api/imgbox/chapter/5UYO3IXlRL"
+      }
+    },
+    "1.1": {
+      "title": "Nameless Boy",
+      "volume": "1",
+      "last_updated": "1758399399",
+      "groups": {
+        "Unknown": "/proxy/api/imgbox/chapter/N46Av4LGVa"
+      }
+    },
+    "2.1": {
+      "title": "Map",
+      "volume": "1",
+      "last_updated": "1758399819",
+      "groups": {
+        "Unknown": "/proxy/api/imgbox/chapter/rkziP6RDmF"
       }
     },
     "3.2": {
@@ -57,14 +165,6 @@
         "Unknown": "/proxy/api/imgbox/chapter/t8SfFHXoc7"
       }
     },
-    "3": {
-      "title": "Double",
-      "volume": "1",
-      "last_updated": "1758399911",
-      "groups": {
-        "V2k": "/proxy/api/imgbox/chapter/z7e87jNvqu"
-      }
-    },
     "4.1": {
       "title": "The Rebel Army's Move",
       "volume": "1",
@@ -73,17 +173,9 @@
         "Unknown": "/proxy/api/imgbox/chapter/44yPuTD6xM"
       }
     },
-    "4": {
-      "title": "The Rebel's Army Move",
-      "volume": "1",
-      "last_updated": "1758399959",
-      "groups": {
-        "V2k": "/proxy/api/imgbox/chapter/trOMwnGahj"
-      }
-    },
     "4.2": {
       "title": "The Rebel's Army",
-      "volume": "53",
+      "volume": "1",
       "last_updated": "1758399984",
       "groups": {
         "Hansmaulwurf": "/proxy/api/imgbox/chapter/EIu8xF8wEG"
@@ -103,22 +195,6 @@
       "last_updated": "1758400036",
       "groups": {
         "Unknown": "/proxy/api/imgbox/chapter/ewqaRYCuj5"
-      }
-    },
-    "5": {
-      "title": "Little Brother From A Different Mother",
-      "volume": "1",
-      "last_updated": "1758400066",
-      "groups": {
-        "V2k": "/proxy/api/imgbox/chapter/tNOlkPTYwY"
-      }
-    },
-    "6": {
-      "title": "Hyou's Decision",
-      "volume": "1",
-      "last_updated": "1758400096",
-      "groups": {
-        "V2k": "/proxy/api/imgbox/chapter/t4Fq1upLPD"
       }
     },
     "6.1": {
@@ -145,28 +221,12 @@
         "Unknown": "/proxy/api/imgbox/chapter/KdPCTPqaAg"
       }
     },
-    "7": {
-      "title": "Assassin That Came From The South",
-      "volume": "1",
-      "last_updated": "1758400200",
-      "groups": {
-        "V2k": "/proxy/api/imgbox/chapter/fekEBO7Wpv"
-      }
-    },
     "7.2": {
       "title": "The Visitor From The West",
       "volume": "1",
       "last_updated": "1758400229",
       "groups": {
         "Hansmaulwurf": "/proxy/api/imgbox/chapter/XDrOb6oxFm"
-      }
-    },
-    "8": {
-      "title": "Monster Bird Of Qin",
-      "volume": "1",
-      "last_updated": "1758400257",
-      "groups": {
-        "Turnip Farmers": "/proxy/api/imgbox/chapter/IIfGlFM9b3"
       }
     },
     "9.1": {
@@ -177,28 +237,12 @@
         "Unknown": "/proxy/api/imgbox/chapter/sBQIotg9Va"
       }
     },
-    "9": {
-      "title": "The Mountain People",
-      "volume": "2",
-      "last_updated": "1758400311",
-      "groups": {
-        "V2k": "/proxy/api/imgbox/chapter/vfDYRK03x4"
-      }
-    },
     "10.1": {
       "title": "Unprepared",
       "volume": "2",
       "last_updated": "1758400336",
       "groups": {
         "Unknown": "/proxy/api/imgbox/chapter/RJ2ZLRJSQ8"
-      }
-    },
-    "10": {
-      "title": "Unprepared",
-      "volume": "2",
-      "last_updated": "1758400360",
-      "groups": {
-        "V2k": "/proxy/api/imgbox/chapter/aK2F97LmVI"
       }
     },
     "11.1": {
@@ -209,28 +253,12 @@
         "Unknown": "/proxy/api/imgbox/chapter/1y7fJtJJSf"
       }
     },
-    "11": {
-      "title": "Conviction",
-      "volume": "2",
-      "last_updated": "1758400408",
-      "groups": {
-        "V2k": "/proxy/api/imgbox/chapter/6m1ItaaGW7"
-      }
-    },
     "12.1": {
       "title": "Loyal Retainer",
       "volume": "2",
       "last_updated": "1758400430",
       "groups": {
         "Unknown": "/proxy/api/imgbox/chapter/dxy1kviU2G"
-      }
-    },
-    "12": {
-      "title": "Loyal Retainer",
-      "volume": "2",
-      "last_updated": "1758400455",
-      "groups": {
-        "V2k": "/proxy/api/imgbox/chapter/tlJK57cksu"
       }
     },
     "13.1": {
@@ -241,14 +269,6 @@
         "Unknown": "/proxy/api/imgbox/chapter/VYhA5MRBJp"
       }
     },
-    "13": {
-      "title": "Heated Battle",
-      "volume": "2",
-      "last_updated": "1758400504",
-      "groups": {
-        "V2k": "/proxy/api/imgbox/chapter/oW72I5W48K"
-      }
-    },
     "14.1": {
       "title": "The Path To General",
       "volume": "2",
@@ -257,36 +277,12 @@
         "Unknown": "/proxy/api/imgbox/chapter/KJ8bqN0p1s"
       }
     },
-    "14": {
-      "title": "The Path To General",
-      "volume": "2",
-      "last_updated": "1758400554",
-      "groups": {
-        "V2k": "/proxy/api/imgbox/chapter/nuVygajIC5"
-      }
-    },
     "15.1": {
       "title": "Chancellor Lu",
       "volume": "2",
       "last_updated": "1758400579",
       "groups": {
         "Unknown": "/proxy/api/imgbox/chapter/iZd5WX6quc"
-      }
-    },
-    "15": {
-      "title": "Chancellor Ryofui",
-      "volume": "2",
-      "last_updated": "1758400604",
-      "groups": {
-        "V2k": "/proxy/api/imgbox/chapter/D0j7gxFxzS"
-      }
-    },
-    "16": {
-      "title": "300 Horse Liquor Soldiers",
-      "volume": "2",
-      "last_updated": "1758400628",
-      "groups": {
-        "V2k": "/proxy/api/imgbox/chapter/5UYO3IXlRL"
       }
     },
     "16.1": {
@@ -319,6 +315,22 @@
       "last_updated": "1758022810",
       "groups": {
         "Year Zero": "/proxy/api/imgbox/chapter/Zibmjmw13d"
+      }
+    },
+    "52.5": {
+      "title": "Omake",
+      "volume": "5",
+      "last_updated": "1758401827",
+      "groups": {
+        "": "/proxy/api/imgbox/chapter/RqVbLvQTUE"
+      }
+    },
+    "360.5": {
+      "title": "Omake",
+      "volume": "5",
+      "last_updated": "1758401852",
+      "groups": {
+        "": "/proxy/api/imgbox/chapter/uB1JQx4AJd"
       }
     }
   }
