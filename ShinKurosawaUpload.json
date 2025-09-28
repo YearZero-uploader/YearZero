@@ -788,6 +788,70 @@
       "groups": {
         "Lion's Ridge": "/proxy/api/imgbox/chapter/11zxWdyxBC"
       }
+    },
+    "99": {
+      "title": "Summer Fly",
+      "volume": "13",
+      "last_updated": "1759019269",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/W1FabLyg2z"
+      }
+    },
+    "100": {
+      "title": "Infiltration",
+      "volume": "13",
+      "last_updated": "1759019641",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/419kByLXN3"
+      }
+    },
+    "101": {
+      "title": "Vaulty",
+      "volume": "13",
+      "last_updated": "1759020581",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/EE7xhq0iZm"
+      }
+    },
+    "102": {
+      "title": "Patience",
+      "volume": "13",
+      "last_updated": "1759020595",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/9JVtkKDIsA"
+      }
+    },
+    "103": {
+      "title": "Mist",
+      "volume": "13",
+      "last_updated": "1759020612",
+      "groups": {
+        "YEAR ZERO": " /proxy/api/imgbox/chapter/U6DocVE2IN"
+      }
+    },
+    "104": {
+      "title": "Souvenir",
+      "volume": "13",
+      "last_updated": "1759020633",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/2k08bwcpgN"
+      }
+    },
+    "105": {
+      "title": "Dueling Grounds",
+      "volume": "14",
+      "last_updated": "1759020657",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/rny8czQxwE"
+      }
+    },
+    "106": {
+      "title": "Blind Spot",
+      "volume": "14",
+      "last_updated": "1759020675",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/UcId6HJvQu"
+      }
     }
   }
 }
