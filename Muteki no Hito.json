@@ -5,12 +5,316 @@
   "author": "Kaitani Shinobu",
   "cover": "https://mangadex.org/covers/e2e867cc-9518-40e6-a256-a0d6c428c668/4cd6d70d-71fe-4b49-8ab4-5f2e418c1f14.jpg",
   "chapters": {
-    "1": {
-      "title": "1",
+    "01": {
+      "title": "M",
       "volume": "1",
       "last_updated": "1759063939",
       "groups": {
         "Endless Moment": "/proxy/api/imgbox/chapter/PSXWnvoE2F"
+      }
+    },
+    "02": {
+      "title": "Friends",
+      "volume": "1",
+      "last_updated": "1758456258",
+      "groups": {
+        "Endless Moment": "/proxy/api/imgbox/chapter/kz0Kh4tg7D"
+    }
+    },
+"03": {
+      "title": "Quirk",
+      "volume": "1",
+      "last_updated": "1758456258",
+      "groups": {
+        "Endless Moment": "/proxy/api/imgbox/chapter/1cupGn2I31"
+    }
+    },
+"04": {
+      "title": "Tables",
+      "volume": "1",
+      "last_updated": "1758456258",
+      "groups": {
+        "Endless Moment": "/proxy/api/imgbox/chapter/hwQSBLUey1"
+    }
+    },
+"05": {
+      "title": "West",
+      "volume": "1",
+      "last_updated": "1758456258",
+      "groups": {
+        "Endless Moment": "/proxy/api/imgbox/chapter/NJLxgBMHSH"
+    }
+    },
+"06": {
+      "title": "Jealousy",
+      "volume": "2",
+      "last_updated": "1758456258",
+      "groups": {
+        "Endless Moment": "/proxy/api/imgbox/chapter/oWr19TqOnr"
+    }
+    },
+"07": {
+      "title": "Next",
+      "volume": "2",
+      "last_updated": "1758456258",
+      "groups": {
+        "Endless Moment": "/proxy/api/imgbox/chapter/173WLQm9Lq"
+    }
+    },
+"08": {
+      "title": "Control",
+      "volume": "2",
+      "last_updated": "1758456258",
+      "groups": {
+        "Endless Moment": "/proxy/api/imgbox/chapter/6xl6sFZHR4"
+    }
+    },
+"09": {
+      "title": "Tamaki",
+      "volume": "2",
+      "last_updated": "1758456258",
+      "groups": {
+        "Endless Moment": "/proxy/api/imgbox/chapter/WJLaDZx5Zd"
+    }
+    },
+"10": {
+      "title": "Scheme",
+      "volume": "2",
+      "last_updated": "1758456258",
+      "groups": {
+        "Endless Moment": "/proxy/api/imgbox/chapter/EVhftCqIlk"
+    }
+    },
+"11": {
+      "title": "Tears",
+      "volume": "2",
+      "last_updated": "1758456258",
+      "groups": {
+        "Endless Moment": "/proxy/api/imgbox/chapter/ceOlZFhSsT"
+    }
+    },
+"12": {
+      "title": "Offense",
+      "volume": "2",
+      "last_updated": "1758456258",
+      "groups": {
+        "Endless Moment": "/proxy/api/imgbox/chapter/k5EBZVpdJr"
+    }
+    },
+"13": {
+      "title": "Expose",
+      "volume": "2",
+      "last_updated": "1758456258",
+      "groups": {
+        "Endless Moment": "/proxy/api/imgbox/chapter/pqNY6aTbHi"
+    }
+    },
+"14": {
+      "title": "Double",
+      "volume": "2",
+      "last_updated": "1758456258",
+      "groups": {
+        "Endless Moment": "/proxy/api/imgbox/chapter/Gt292S3Swx"
+    }
+    },
+"15": {
+      "title": "Same",
+      "volume": "3",
+      "last_updated": "1758456258",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgbox/chapter/oXzZ5ccMKz"
+      }
+    },
+"16": {
+      "title": "Suspension",
+      "volume": "3",
+      "last_updated": "1758456258",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgbox/chapter/WfmZluF4iE"
+      }
+    },
+"17": {
+      "title": "Reason",
+      "volume": "3",
+      "last_updated": "1758456258",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgbox/chapter/Aqo6MMNDXI"
+      }
+    },
+"18": {
+      "title": "Direction",
+      "volume": "3",
+      "last_updated": "1758456258",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgbox/chapter/xdc20H66cJ"
+      }
+    },
+"19": {
+      "title": "Thoughts",
+      "volume": "3",
+      "last_updated": "1758456258",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgbox/chapter/pb8Reygojg"
+      }
+    },
+"20": {
+      "title": "Intuition",
+      "volume": "3",
+      "last_updated": "1758456258",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgbox/chapter/oNFaMrTSGn"
+      }
+    },
+"21": {
+      "title": "Yue",
+      "volume": "3",
+      "last_updated": "1758456258",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/FbfHIeDsGE"
+      }
+    },
+"22": {
+      "title": "Aim",
+      "volume": "3",
+      "last_updated": "1758456258",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/yorwpPg37j"
+      }
+    },
+"23": {
+      "title": "Fitting",
+      "volume": "3",
+      "last_updated": "1758456258",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/XzY77Al0aF"
+      }
+    },
+"24": {
+      "title": "Decision",
+      "volume": "3",
+      "last_updated": "1758456258",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/fawiCC8T7X"
+      }
+    },
+"25": {
+      "title": "Lies",
+      "volume": "4",
+      "last_updated": "1758456258",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/hqkd86FJAT"
+      }
+    },
+"26": {
+      "title": "Special",
+      "volume": "4",
+      "last_updated": "1758456258",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/GcZsjz7SI7"
+      }
+    },
+"27": {
+      "title": "Rely",
+      "volume": "4",
+      "last_updated": "1758456258",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/7U93LPnjST"
+      }
+    },
+"28": {
+      "title": "Eyes",
+      "volume": "4",
+      "last_updated": "1758456258",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/COF7FtLegw"
+      }
+    },
+"29": {
+      "title": "Hands",
+      "volume": "4",
+      "last_updated": "1758456258",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/XX7Zdje6xj"
+      }
+    },
+"30": {
+      "title": "Teeth",
+      "volume": "4",
+      "last_updated": "1758456258",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/1eLP0N0mWo"
+      }
+    },
+"31": {
+      "title": "Fangs",
+      "volume": "4",
+      "last_updated": "1758456258",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/iWQ9ilwqGO"
+      }
+    },
+"32": {
+      "title": "Break",
+      "volume": "5",
+      "last_updated": "1758456258",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/YjPPr1k8te"
+      }
+    },
+"33": {
+      "title": "Rules",
+      "volume": "5",
+      "last_updated": "1758456258",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/zDhhUnD7vT"
+      }
+    },
+"34": {
+      "title": "Happiness",
+      "volume": "5",
+      "last_updated": "1758456258",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/UENXREzOEn"
+      }
+    },
+"35": {
+      "title": "Evil",
+      "volume": "5",
+      "last_updated": "1758456258",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/oTsPNDBL5P"
+      }
+    },
+"36": {
+      "title": "Me",
+      "volume": "5",
+      "last_updated": "1758456258",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/XaJNCjOiMJ"
+      }
+    },
+"37": {
+      "title": "Trap",
+      "volume": "5",
+      "last_updated": "1758456258",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/0Uf87lkYEd"
+      }
+    },
+"38": {
+      "title": "Truth",
+      "volume": "5",
+      "last_updated": "1758456258",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/q4AK4ikadh"
+      }
+    },
+"39": {
+      "title": "Heart",
+      "volume": "5",
+      "last_updated": "1758456258",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/PBxEOZItia"
       }
     }
   }
