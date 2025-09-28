@@ -5,13 +5,790 @@
   "author": "Wakasugi Kiminori",
   "cover": "https://mangadex.org/covers/087e1ee7-491e-4e67-b3c2-44d227cb0584/201ce02c-cecf-4c75-9eec-4a81f8b81544.jpg",
   "chapters": {
-    "1": {
+"01": {
       "title": "DMC",
       "volume": "1",
-      "last_updated": "1759092769",
+      "last_updated": "1758456258",
       "groups": {
-        "HJKDF": "/proxy/api/imgbox/chapter/AXIGgNJQC6"
+        "Scum Scans": "/proxy/api/imgbox/chapter/AXIGgNJQC6"
+      }
+    },
+"02": {
+      "title": "PV",
+      "volume": "1",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/RX4tuatGnA"
+      }
+    },
+"03": {
+      "title": "Sick Murderer",
+      "volume": "1",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/0by2frdMwZ"
+      }
+    },
+"04": {
+      "title": "REAL LEGEND",
+      "volume": "1",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/snDTsBYUWc"
+      }
+    },
+"05": {
+      "title": "SATAN",
+      "volume": "1",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/aJXb4jwFaN"
+      }
+    },
+"06": {
+      "title": "DRUG",
+      "volume": "1",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/xMvIrUtHm4"
+      }
+    },
+"07": {
+      "title": "PIG",
+      "volume": "1",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/E8DvZxs2Dp"
+      }
+    },
+"08": {
+      "title": "GOOD SONG",
+      "volume": "1",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/jjcRpJRBk3"
+      }
+    },
+"09": {
+      "title": "EMPEROR. 1",
+      "volume": "1",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/ZTIXdmP5RF"
+      }
+    },
+"10": {
+      "title": "EMPEROR. 2",
+      "volume": "1",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/0dvMm03IPi"
+      }
+    },
+"11": {
+      "title": "FAMILY",
+      "volume": "1",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/EPh2Psx0w1"
+      }
+    },
+"12": {
+      "title": "FRUSTRATION",
+      "volume": "1",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/q1KmqKHx2F"
+      }
+    },
+"12.5": {
+      "title": "ERRAND",
+      "volume": "1",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/uuTk8uYP2j"
+      }
+    },
+"13": {
+      "title": "MASOCHIST",
+    "volume": "2",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/gO7fPDhpwy"
+      }
+    },
+"14": {
+      "title": "PUNK. 1",
+    "volume": "2",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/oeH4qgyZeo"
+      }
+    },
+"15": {
+      "title": "PUNK. 2",
+    "volume": "2",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/hLrpwlG3Bu"
+      }
+    },
+"16": {
+      "title": "CONFESSION",
+    "volume": "2",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/9lJsbPzkJE"
+      }
+    },
+"17": {
+      "title": "TOWER",
+    "volume": "2",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/oITIxG2fbP"
+      }
+    },
+"18": {
+      "title": "PROMISE",
+    "volume": "2",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/z8Nx2DPLZ6"
+      }
+    },
+"19": {
+      "title": "ALTERNATION",
+    "volume": "2",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/OfMJR89Yx5"
+      }
+    },
+"20": {
+      "title": "CINEMA. 1",
+    "volume": "2",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/B36gc8ctmQ"
+      }
+    },
+"21": {
+      "title": "CINEMA. 2",
+    "volume": "2",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/VzfhrcRNOB"
+      }
+    },
+"22": {
+      "title": "FAKE",
+    "volume": "2",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/ewmjVPX0go"
+      }
+    },
+"23": {
+      "title": "HIP HOP. 1",
+    "volume": "2",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/MbZmLwNkKv"
+      }
+    },
+"24": {
+      "title": "HIP HOP. 2",
+    "volume": "2",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/6qouNq8MBX"
+      }
+    },
+"24.5": {
+      "title": "DETROIT MOE CITY",
+    "volume": "2",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/ZCtxO64YCc"
+      }
+    },
+"25": {
+      "title": "RECEPTION",
+    "volume": "3",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/t1E6UbPbZx"
+      }
+    },
+"26": {
+      "title": "PROJECT",
+    "volume": "3",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/FDdOl6gQEH"
+      }
+    },
+"27": {
+      "title": "PATISSIER",
+    "volume": "3",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/KeJ8eeoVd1"
+      }
+    },
+"28": {
+      "title": "PERFORMANCE",
+    "volume": "3",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/lvgHzj5Jid"
+      }
+    },
+"29": {
+      "title": "DOG",
+    "volume": "3",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/b8ICqhgiDG"
+      }
+    },
+"30": {
+      "title": "GROUPIE",
+    "volume": "3",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/CyJLYIOKz7"
+      }
+    },
+"31": {
+      "title": "UNITED",
+    "volume": "3",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/7ghX58wZIM"
+      }
+    },
+"32": {
+      "title": "SATANIC EMPEROR. 1",
+    "volume": "3",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/CFdqEapznw"
+      }
+    },
+"33": {
+      "title": "SATANIC EMPEROR. 2",
+    "volume": "3",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/Enq5h6DZYV"
+      }
+    },
+"34": {
+      "title": "SATANIC EMPEROR. 3",
+    "volume": "3",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/sReAiTIJEL"
+      }
+    },
+"35": {
+      "title": "SATANIC EMPEROR. 4",
+    "volume": "3",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/axpYwSFZ1i"
+      }
+    },
+"35.5": {
+      "title": "CUT",
+    "volume": "3",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/bCoDvEtUTT"
+      }
+    },
+"36": {
+      "title": "SATANIC EMPEROR. 5",
+    "volume": "4",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/4B4u4GWij1"
+      }
+    },
+"37": {
+      "title": "SATANIC EMPEROR. 6",
+    "volume": "4",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/IHaoCkuD0A"
+      }
+    },
+"38": {
+      "title": "SATANIC EMPEROR. 7",
+    "volume": "4",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/xnX3aNVvAE"
+      }
+    },
+"39": {
+      "title": "SATANIC EMPEROR. 8",
+    "volume": "4",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/d7ukMRCs2b"
+      }
+    },
+"40": {
+      "title": "SATANIC EMPEROR. 9",
+    "volume": "4",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/fU6W8cCJK5"
+      }
+    },
+"41": {
+      "title": "SATANIC EMPEROR. 10",
+    "volume": "4",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/TyQbCedG9w"
+      }
+    },
+"42": {
+      "title": "SATANIC EMPEROR. 11",
+    "volume": "4",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/MWV7NG4l1h"
+      }
+    },
+"43": {
+      "title": "SATANIC EMPEROR. 12",
+    "volume": "4",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/rfFLXEYVGd"
+      }
+    },
+"44": {
+      "title": "BALD",
+    "volume": "4",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/XjjD7f2R6X"
+      }
+    },
+"45": {
+      "title": "HUNTING",
+    "volume": "4",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/NsZySn3Xou"
+      }
+    },
+"46": {
+      "title": "FORTUNE TELLING",
+    "volume": "4",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/0LY21UO2RR"
+      }
+    },
+"46.5": {
+      "title": "TEAM",
+    "volume": "4",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/61ZMweQG2z"
+      }
+    },
+"47": {
+      "title": "SUICIDE",
+    "volume": "5",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/4I3dCdScOA"
+      }
+    },
+"48": {
+      "title": "CAMERA",
+    "volume": "5",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/HLelojqNbg"
+      }
+    },
+"49": {
+      "title": "SUN",
+    "volume": "5",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/OkG7RVbWwP"
+      }
+    },
+"50": {
+      "title": "RADIO",
+    "volume": "5",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/SiKzczP3NF"
+      }
+    },
+"51": {
+      "title": "WEDDING. 1",
+    "volume": "5",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/D1JBdC81Fm"
+      }
+    },
+"52": {
+      "title": "WEDDING. 2",
+    "volume": "5",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/qrrNMMN1Iz"
+      }
+    },
+"53": {
+      "title": "CONCENTRATION",
+    "volume": "5",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/i3WKNLkDKn"
+      }
+    },
+"54": {
+      "title": "APOLOGY",
+    "volume": "5",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/5tMN6KIXWo"
+      }
+    },
+"55": {
+      "title": "PRIDE",
+    "volume": "5",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/7tSKJy908p"
+      }
+    },
+"56": {
+      "title": "DARK HISTORY. 1",
+    "volume": "5",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/jPRnuD2SKE"
+      }
+    },
+"57": {
+      "title": "DARK HISTORY. 2",
+    "volume": "5",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/WNSgCbwFVv"
+      }
+    },
+"57.5": {
+      "title": "SENSE",
+    "volume": "5",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/s4o5nSDiiz"
+      }
+    },
+"58": {
+      "title": "BATHROOM",
+    "volume": "6",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/4bWlkWE5Wu"
+      }
+    },
+"59": {
+      "title": "MAIL",
+    "volume": "6",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/4mPE9qXO0m"
+      }
+    },
+"60": {
+      "title": "TOP",
+    "volume": "6",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/UfWxVWOdCT"
+      }
+    },
+"61": {
+      "title": "POLICE",
+    "volume": "6",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/SVm4p6ff0i"
+      }
+    },
+"62": {
+      "title": "MEMORY",
+    "volume": "6",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/jm3Ph5L3OC"
+      }
+    },
+"63": {
+      "title": "BETRAYER",
+    "volume": "6",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/UmYHZ6Lg1R"
+      }
+    },
+"64": {
+      "title": "INVITATION",
+    "volume": "6",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/cuEzLFzOtL"
+      }
+    },
+"65": {
+      "title": "GRUDGE",
+    "volume": "6",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/hzQRKKyfMs"
+      }
+    },
+"66": {
+      "title": "DEATH",
+    "volume": "6",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/tJUGNelYMR"
+      }
+    },
+"67": {
+      "title": "RESTAURANT",
+    "volume": "6",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/DczTb3Yry2"
+      }
+    },
+"68": {
+      "title": "LOSER",
+    "volume": "6",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/hYQ14ylj2g"
+      }
+    },
+"68.5": {
+      "title": "SHOPLIFTER",
+    "volume": "6",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/SetAdo77TB"
+      }
+    },
+"69": {
+      "title": "EGG",
+    "volume": "7",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/sBaHzIIinM"
+      }
+    },
+"70": {
+      "title": "NEW COMER",
+    "volume": "7",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/4jkn8SkrRI"
+      }
+    },
+"71": {
+      "title": "TOUCH",
+    "volume": "7",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/cvzITmDnxg"
+      }
+    },
+"72": {
+      "title": "DOCUMENTARY",
+    "volume": "7",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/YWNfc2YAgj"
+      }
+    },
+"73": {
+      "title": "CAPACITY",
+    "volume": "7",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/L1VShsF0Rg"
+      }
+    },
+"74": {
+      "title": "ONE SECOND",
+    "volume": "7",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/yzh17FX9zy"
+      }
+    },
+"75": {
+      "title": "PROPOSE",
+    "volume": "7",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/fFT1LxvGyI"
+      }
+    },
+"76": {
+      "title": "TERIYAKI",
+    "volume": "7",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/J3Ykpf0YUy"
+      }
+    },
+"77": {
+      "title": "SALON",
+    "volume": "7",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/iMHfH0rv4k"
+      }
+    },
+"78": {
+      "title": "CHERRY",
+    "volume": "7",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/3CW1yKR2Ze"
+      }
+    },
+"79": {
+      "title": "BLOCK",
+    "volume": "7",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/rhfiEOxluw"
+      }
+    },
+"79.5": {
+      "title": "POOL",
+    "volume": "7",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/nDXq6eXNeN"
+      }
+    },
+"80": {
+      "title": "TRIP",
+    "volume": "8",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/uhOVmNfMIn"
+      }
+    },
+"81": {
+      "title": "ECOLOGY",
+    "volume": "8",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/b0Suo0nu1A"
+      }
+    },
+"82": {
+      "title": "OLD FASHIONED",
+    "volume": "8",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/lvGiYkVee3"
+      }
+    },
+"83": {
+      "title": "WRESTLING. 1",
+    "volume": "8",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/3mRZBT27RP"
+      }
+    },
+"84": {
+      "title": "WRESTLING. 2",
+    "volume": "8",
+      "last_updated": "1758456258",
+      "groups": {
+        "Scum Scans": "/proxy/api/imgbox/chapter/QkSDSk94HG"
+      }
+    },
+"85": {
+      "title": "KYUSHU BOY",
+    "volume": "8",
+      "last_updated": "1758456258",
+      "groups": {
+        "Some Scans": "/proxy/api/imgbox/chapter/ViKVTHSuWp"
+      }
+    },
+"86": {
+      "title": "AD LIB",
+    "volume": "8",
+      "last_updated": "1758456258",
+      "groups": {
+        "Some Scans": "/proxy/api/imgbox/chapter/YPedUMjMBX"
+      }
+    },
+"87": {
+      "title": "FAITHFUL",
+    "volume": "8",
+      "last_updated": "1758456258",
+      "groups": {
+        "KRA Scans": "/proxy/api/imgbox/chapter/jv4milHeuB"
+      }
+    },
+"88": {
+      "title": "SLUMP",
+    "volume": "8",
+      "last_updated": "1758456258",
+      "groups": {
+        "KRA Scans": "/proxy/api/imgbox/chapter/IxDxqExvvl"
+      }
+    },
+"89": {
+      "title": "REBEL. 1",
+    "volume": "8",
+      "last_updated": "1758456258",
+      "groups": {
+        "KRA Scans": "/proxy/api/imgbox/chapter/lECxOMt9Xg"
+      }
+    },
+"90": {
+      "title": "REBEL. 2",
+    "volume": "8",
+      "last_updated": "1758456258",
+      "groups": {
+        "KRA Scans": "/proxy/api/imgbox/chapter/SpO3mjibKV"
+      }
+    },
+"90.5": {
+      "title": "DODGE",
+    "volume": "8",
+      "last_updated": "1758456258",
+      "groups": {
+        "KRA Scans": "/proxy/api/imgbox/chapter/OKcyypM0sx"
       }
     }
+
   }
 }
