@@ -212,6 +212,78 @@
       "groups": {
         "YEAR ZERO": "/proxy/api/mangadex/chapter/69ba0d15-6ecf-43b7-b0cf-7d412a39aa6f"
       }
+    },
+    "27": {
+      "title": "27",
+      "volume": "4",
+      "last_updated": "1760404996",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/mangadex/chapter/cd572e8b-6e1d-43d1-a5d8-074fc1f8cb1a"
+      }
+    },
+    "28": {
+      "title": "28",
+      "volume": "4",
+      "last_updated": "1760405004",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/mangadex/chapter/25d5d0bd-fb39-49d9-88ae-66be11def5e9"
+      }
+    },
+    "29": {
+      "title": "29",
+      "volume": "4",
+      "last_updated": "1760405012",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/mangadex/chapter/c4b426ea-e327-4a53-99df-e0c072fc2eb4"
+      }
+    },
+    "30": {
+      "title": "30",
+      "volume": "4",
+      "last_updated": "1760405019",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/mangadex/chapter/cfa2e97d-4db6-43c2-ad84-0d3024293343"
+      }
+    },
+    "31": {
+      "title": "31",
+      "volume": "4",
+      "last_updated": "1760405025",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/mangadex/chapter/a44a870f-6f1a-4146-9666-7c65422cee8f"
+      }
+    },
+    "32": {
+      "title": "32",
+      "volume": "4",
+      "last_updated": "1760405031",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/mangadex/chapter/515b218f-de49-405f-9813-bea43a377b97"
+      }
+    },
+    "33": {
+      "title": "33",
+      "volume": "4",
+      "last_updated": "1760405037",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/mangadex/chapter/a85145aa-2c58-4a15-910f-e3c030e37361"
+      }
+    },
+    "34": {
+      "title": "34",
+      "volume": "4",
+      "last_updated": "1760405043",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/mangadex/chapter/2d9ba59f-087d-454b-ac76-a7b5f9b111c3"
+      }
+    },
+    "35": {
+      "title": "35",
+      "volume": "4",
+      "last_updated": "1760405050",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/mangadex/chapter/ea6ed734-21f2-455f-bf86-194c39f58e2c"
+      }
     }
   }
 }
