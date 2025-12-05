@@ -5,790 +5,6 @@
   "author": "Fukumoto Nobuyuki",
   "cover": "https://mangadex.org/covers/e5014f00-199b-493f-a8dc-8b8c939bb00f/24cf7637-66fd-4c35-9a0d-be3d66922e67.jpg",
   "chapters": {
-     "001": {
-      "title": "Competition",
-      "last_updated": "1761572477",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/a8463ooag4x"
-      },
-      "volume": "01"
-    },
-    "002": {
-      "title": "Clara",
-      "last_updated": "1761572497",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/m9yx9nnkmyq"
-      },
-      "volume": "01"
-    },
-    "003": {
-      "title": "Visiting",
-      "last_updated": "1761572518",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/9p4nvzzewyn"
-      },
-      "volume": "01"
-    },
-    "004": {
-      "title": "Old Friends",
-      "last_updated": "1761572538",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/ne7bl66wky5"
-      },
-      "volume": "01"
-    },
-    "005": {
-      "title": "Getting Up",
-      "last_updated": "1761572560",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/na7kakkzk48"
-      },
-      "volume": "01"
-    },
-    "006": {
-      "title": "Waking Up",
-      "last_updated": "1761572583",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/wl7lawwx6yx"
-      },
-      "volume": "01"
-    },
-    "007": {
-      "title": "Revival",
-      "last_updated": "1761572602",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/5xy2qoopjyl"
-      },
-      "volume": "01"
-    },
-    "008": {
-      "title": "Legend",
-      "last_updated": "1761572622",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/wl7lawwxpyx"
-      },
-      "volume": "01"
-    },
-    "009": {
-      "title": "Mamoru",
-      "last_updated": "1761572648",
-      "groups": {
-        "-FKMTKrazy -": "/proxy/api/imgchest/chapter/vj4jemmd278"
-      },
-      "volume": "02"
-    },
-    "010": {
-      "title": "Notice",
-      "last_updated": "1761572670",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/9rydq225w4k"
-      },
-      "volume": "02"
-    },
-    "011": {
-      "title": "Strength",
-      "last_updated": "1761572692",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/pg73doo9zyr"
-      },
-      "volume": "02"
-    },
-    "012": {
-      "title": "Sensei",
-      "last_updated": "1761572715",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/n87w9nnvzyx"
-      },
-      "volume": "02"
-    },
-    "013": {
-      "title": "Japan",
-      "last_updated": "1761572739",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/lqyedllv37d"
-      },
-      "volume": "02"
-    },
-    "014": {
-      "title": "Stocking Up",
-      "last_updated": "1761572761",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/qe4gmqqlr4j"
-      },
-      "volume": "02"
-    },
-    "015": {
-      "title": "Goddesses",
-      "last_updated": "1761572784",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/agyvxnn6978"
-      },
-      "volume": "02"
-    },
-    "016": {
-      "title": "Confiscation",
-      "last_updated": "1761572808",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/ne7bl66pny5"
-      },
-      "volume": "02"
-    },
-    "017": {
-      "title": "Fists",
-      "last_updated": "1761572838",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/na7kakkrq48"
-      },
-      "volume": "03"
-    },
-    "018": {
-      "title": "Treasure",
-      "last_updated": "1761572862",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/vj4jemm3278"
-      },
-      "volume": "03"
-    },
-    "019": {
-      "title": "Oranges",
-      "last_updated": "1761572887",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/ej7maeenb7d"
-      },
-      "volume": "03"
-    },
-    "020": {
-      "title": "Prey",
-      "last_updated": "1761572911",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/pg73doopzyr"
-      },
-      "volume": "03"
-    },
-    "021": {
-      "title": "Together",
-      "last_updated": "1761572937",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/lqyedllp37d"
-      },
-      "volume": "03"
-    },
-    "022": {
-      "title": "Telling",
-      "last_updated": "1761572961",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/qe4gmqqrr4j"
-      },
-      "volume": "03"
-    },
-    "023": {
-      "title": "Cake",
-      "last_updated": "1761572987",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/bp45mood2y5"
-      },
-      "volume": "03"
-    },
-    "024": {
-      "title": "Water",
-      "last_updated": "1761573014",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/a8463oogw4x"
-      },
-      "volume": "03"
-    },
-    "025": {
-      "title": "Suffering",
-      "last_updated": "1761573041",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/m9yx9nng3yq"
-      },
-      "volume": "04"
-    },
-    "026": {
-      "title": "Friends",
-      "last_updated": "1761573065",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/92492kkj2yn"
-      },
-      "volume": "04"
-    },
-    "027": {
-      "title": "Rescue",
-      "last_updated": "1761573088",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/9p4nvzzlzyn"
-      },
-      "volume": "04"
-    },
-    "028": {
-      "title": "Twisted",
-      "last_updated": "1761573107",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/dl7pannz67o"
-      },
-      "volume": "04"
-    },
-    "029": {
-      "title": "Mother",
-      "last_updated": "1761573126",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/wl7lawwmpyx"
-      },
-      "volume": "04"
-    },
-    "030": {
-      "title": "Funaki",
-      "last_updated": "1761573148",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/vj4jemmw278"
-      },
-      "volume": "04"
-    },
-    "031": {
-      "title": "Disposal",
-      "last_updated": "1761573168",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/ej7maee2b7d"
-      },
-      "volume": "04"
-    },
-    "032": {
-      "title": "Guevara",
-      "last_updated": "1761573192",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/lqyedll637d"
-      },
-      "volume": "04"
-    },
-    "033": {
-      "title": "Greed",
-      "last_updated": "1761573217",
-      "groups": {
-        "-FKMTKrazy -": "/proxy/api/imgchest/chapter/qb4z5ppj34j"
-      },
-      "volume": "05"
-    },
-    "034": {
-      "title": "Compensation",
-      "last_updated": "1761573236",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/qe4gmqqxr4j"
-      },
-      "volume": "05"
-    },
-    "035": {
-      "title": "Revolution",
-      "last_updated": "1761573256",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/bp45mooz2y5"
-      },
-      "volume": "05"
-    },
-    "036": {
-      "title": "Sunset",
-      "last_updated": "1761573276",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/agyvxnnw978"
-      },
-      "volume": "05"
-    },
-    "037": {
-      "title": "Forgiveness",
-      "last_updated": "1761573295",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/m9yx9nn23yq"
-      },
-      "volume": "05"
-    },
-    "038": {
-      "title": "Technique",
-      "last_updated": "1761573315",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/92492kkg2yn"
-      },
-      "volume": "05"
-    },
-    "039": {
-      "title": "Plan",
-      "last_updated": "1761573336",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/9p4nvzzxzyn"
-      },
-      "volume": "05"
-    },
-    "040": {
-      "title": "Umbrellas",
-      "last_updated": "1761573356",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/ne7bl66vny5"
-      },
-      "volume": "05"
-    },
-    "041": {
-      "title": "Merchandise",
-      "last_updated": "1761573379",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/na7kakkeq48"
-      },
-      "volume": "06"
-    },
-    "042": {
-      "title": "Rhinoceros Beetle",
-      "last_updated": "1761573400",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/5xy2qoo3jyl"
-      },
-      "volume": "06"
-    },
-    "043": {
-      "title": "Kabukicho",
-      "last_updated": "1761573418",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/vj4jemmv278"
-      },
-      "volume": "06"
-    },
-    "044": {
-      "title": "Crisis",
-      "last_updated": "1761573438",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/9rydq22aw4k"
-      },
-      "volume": "06"
-    },
-    "045": {
-      "title": "Reckless",
-      "last_updated": "1761573456",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/ej7maeekb7d"
-      },
-      "volume": "06"
-    },
-    "046": {
-      "title": "Border",
-      "last_updated": "1761573473",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/pg73doowzyr"
-      },
-      "volume": "06"
-    },
-    "047": {
-      "title": "Youth",
-      "last_updated": "1761573492",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/lqyedllq37d"
-      },
-      "volume": "06"
-    },
-    "048": {
-      "title": "Traveler",
-      "last_updated": "1761573513",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/qb4z5ppw34j"
-      },
-      "volume": "06"
-    },
-    "049": {
-      "title": "Welcome",
-      "last_updated": "1761573535",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/bp45moo22y5"
-      },
-      "volume": "07"
-    },
-    "050": {
-      "title": "Formal Ceremony",
-      "last_updated": "1761573555",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/a8463oolw4x"
-      },
-      "volume": "07"
-    },
-    "051": {
-      "title": "The Earth Conduction",
-      "last_updated": "1761573576",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/92492kkd2yn"
-      },
-      "volume": "07"
-    },
-    "052": {
-      "title": "Young Men",
-      "last_updated": "1761573593",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/9p4nvzz3zyn"
-      },
-      "volume": "07"
-    },
-    "053": {
-      "title": "Apology",
-      "last_updated": "1761573612",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/ne7bl662ny5"
-      },
-      "volume": "07"
-    },
-    "054": {
-      "title": "Request",
-      "last_updated": "1761573633",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/md7oabbedyp"
-      },
-      "volume": "07"
-    },
-    "055": {
-      "title": "Brothers",
-      "last_updated": "1761573651",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/na7kakkdq48"
-      },
-      "volume": "07"
-    },
-    "056": {
-      "title": "USA",
-      "last_updated": "1761573675",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/5xy2qoobjyl"
-      },
-      "volume": "07"
-    },
-    "057": {
-      "title": "Terrorism",
-      "last_updated": "1761573698",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/5xy2qoob9yl"
-      },
-      "volume": "08"
-    },
-    "058": {
-      "title": "Ambassador",
-      "last_updated": "1761573717",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/vj4jemmqx78"
-      },
-      "volume": "08"
-    },
-    "059": {
-      "title": "Wabi-Sabi",
-      "last_updated": "1761573739",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/9rydq22xl4k"
-      },
-      "volume": "08"
-    },
-    "060": {
-      "title": "Frame",
-      "last_updated": "1761573761",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/ej7maee9n7d"
-      },
-      "volume": "08"
-    },
-    "061": {
-      "title": "Homecoming",
-      "last_updated": "1761573782",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/pg73doorjyr"
-      },
-      "volume": "08"
-    },
-    "062": {
-      "title": "From the Pot",
-      "last_updated": "1761573806",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/n87w9nnlgyx"
-      },
-      "volume": "08"
-    },
-    "063": {
-      "title": "Strategy",
-      "last_updated": "1761573827",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/o24a266327l"
-      },
-      "volume": "08"
-    },
-    "064": {
-      "title": "Observation",
-      "last_updated": "1761573850",
-      "groups": {
-        "FKMTKrazy": "/proxy/api/imgchest/chapter/agyvxnn2j78"
-      },
-      "volume": "08"
-    },
-    "065": {
-      "title": "Disguise",
-      "last_updated": "1761573874",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/92492kkvmyn"
-      },
-      "volume": "09"
-    },
-    "066": {
-      "title": "Training",
-      "last_updated": "1761573898",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/ne7bl665jy5"
-      },
-      "volume": "09"
-    },
-    "067": {
-      "title": "Leader",
-      "last_updated": "1761573922",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/5xy2qood9yl"
-      },
-      "volume": "09"
-    },
-    "068": {
-      "title": "It Begins",
-      "last_updated": "1761573944",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/vj4jemm9x78"
-      },
-      "volume": "09"
-    },
-    "069": {
-      "title": "Sword Skills",
-      "last_updated": "1761573967",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/6eyrann9g4p"
-      },
-      "volume": "09"
-    },
-    "070": {
-      "title": "Apple Beheading",
-      "last_updated": "1761573989",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/ej7maeewn7d"
-      },
-      "volume": "09"
-    },
-    "071": {
-      "title": "Depression",
-      "last_updated": "1761574011",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/n87w9nndgyx"
-      },
-      "volume": "09"
-    },
-    "072": {
-      "title": "Foul Language",
-      "last_updated": "1761574035",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/qb4z5pped4j"
-      },
-      "volume": "09"
-    },
-    "073": {
-      "title": "Canceled",
-      "last_updated": "1761574059",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/bp45moopqy5"
-      },
-      "volume": "10"
-    },
-    "074": {
-      "title": "Devotee",
-      "last_updated": "1761574082",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/a8463oowo4x"
-      },
-      "volume": "10"
-    },
-    "075": {
-      "title": "Demon",
-      "last_updated": "1761574106",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/92492kkwmyn"
-      },
-      "volume": "10"
-    },
-    "076": {
-      "title": "Taboo Words",
-      "last_updated": "1761574130",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/dl7pannep7o"
-      },
-      "volume": "10"
-    },
-    "077": {
-      "title": "Mainstream",
-      "last_updated": "1761574154",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/na7kakkmb48"
-      },
-      "volume": "10"
-    },
-    "078": {
-      "title": "Provocation",
-      "last_updated": "1761574175",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/6eyrannmg4p"
-      },
-      "volume": "10"
-    },
-    "079": {
-      "title": "Doubt",
-      "last_updated": "1761574199",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/n87w9nnxgyx"
-      },
-      "volume": "10"
-    },
-    "080": {
-      "title": "Battlefield",
-      "last_updated": "1761574234",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/qe4gmqq5j4j"
-      },
-      "volume": "10"
-    },
-    "081": {
-      "title": "Downfall",
-      "last_updated": "1761574257",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/agyvxnn9j78"
-      },
-      "volume": "11"
-    },
-    "082": {
-      "title": "Sophistry",
-      "last_updated": "1761574279",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/md7oabbqryp"
-      },
-      "volume": "11"
-    },
-    "083": {
-      "title": "Shriek",
-      "last_updated": "1761574304",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/5xy2qoo89yl"
-      },
-      "volume": "11"
-    },
-    "084": {
-      "title": "Disappointment",
-      "last_updated": "1761574325",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/wl7laww2qyx"
-      },
-      "volume": "11"
-    },
-    "085": {
-      "title": "Revival",
-      "last_updated": "1761574348",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/9rydq22rl4k"
-      },
-      "volume": "11"
-    },
-    "086": {
-      "title": "Gramma",
-      "last_updated": "1761574371",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/pg73dooljyr"
-      },
-      "volume": "11"
-    },
-    "087": {
-      "title": "Ignition",
-      "last_updated": "1761574395",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/qe4gmqqwj4j"
-      },
-      "volume": "11"
-    },
-    "088": {
-      "title": "Legend",
-      "last_updated": "1761574417",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/bp45mooqqy5"
-      },
-      "volume": "11"
-    },
-    "089": {
-      "title": "Back and Forth",
-      "last_updated": "1761574442",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/m9yx9nn3qyq"
-      },
-      "volume": "12"
-    },
-    "090": {
-      "title": "Proposal",
-      "last_updated": "1761574468",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/9p4nvzz8myn"
-      },
-      "volume": "12"
-    },
-    "091": {
-      "title": "Letter of Challenge",
-      "last_updated": "1761574494",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/dl7pann8p7o"
-      },
-      "volume": "12"
-    },
-    "092": {
-      "title": "Wiles",
-      "last_updated": "1761574517",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/wl7lawwoqyx"
-      },
-      "volume": "12"
-    },
-    "093": {
-      "title": "Special Lecture",
-      "last_updated": "1761574539",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/ljyqakk2n72"
-      },
-      "volume": "12"
-    },
-    "094": {
-      "title": "Practice",
-      "last_updated": "1761574561",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/vj4jemme378"
-      },
-      "volume": "12"
-    },
-    "095": {
-      "title": "Compliment",
-      "last_updated": "1761574586",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/9rydq22qa4k"
-      },
-      "volume": "12"
-    },
-    "096": {
-      "title": "Guidebook",
-      "last_updated": "1761574610",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/pg73doodgyr"
-      },
-      "volume": "12"
-    },
-    "097": {
-      "title": "Team",
-      "last_updated": "1761574635",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/lqyedlldm7d"
-      },
-      "volume": "13"
-    },
-    "098": {
-      "title": "Activation",
-      "last_updated": "1761574658",
-      "groups": {
-        "Lion's Ridge": "/proxy/api/imgchest/chapter/qe4gmqqmq4j"
-      },
-      "volume": "13"
-    },
     "99": {
       "title": "Summer Fly",
       "volume": "13",
@@ -851,6 +67,798 @@
       "last_updated": "1759020675",
       "groups": {
         "YEAR ZERO": "/proxy/api/imgbox/chapter/UcId6HJvQu"
+      }
+    },
+    "107": {
+      "title": "Escape",
+      "volume": "14",
+      "last_updated": "1764925231",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgbox/chapter/6NHtZW8RPA"
+      }
+    },
+    "001": {
+      "title": "Competition",
+      "volume": "01",
+      "last_updated": "1761572477",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/a8463ooag4x"
+      }
+    },
+    "002": {
+      "title": "Clara",
+      "volume": "01",
+      "last_updated": "1761572497",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/m9yx9nnkmyq"
+      }
+    },
+    "003": {
+      "title": "Visiting",
+      "volume": "01",
+      "last_updated": "1761572518",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/9p4nvzzewyn"
+      }
+    },
+    "004": {
+      "title": "Old Friends",
+      "volume": "01",
+      "last_updated": "1761572538",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/ne7bl66wky5"
+      }
+    },
+    "005": {
+      "title": "Getting Up",
+      "volume": "01",
+      "last_updated": "1761572560",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/na7kakkzk48"
+      }
+    },
+    "006": {
+      "title": "Waking Up",
+      "volume": "01",
+      "last_updated": "1761572583",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/wl7lawwx6yx"
+      }
+    },
+    "007": {
+      "title": "Revival",
+      "volume": "01",
+      "last_updated": "1761572602",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/5xy2qoopjyl"
+      }
+    },
+    "008": {
+      "title": "Legend",
+      "volume": "01",
+      "last_updated": "1761572622",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/wl7lawwxpyx"
+      }
+    },
+    "009": {
+      "title": "Mamoru",
+      "volume": "02",
+      "last_updated": "1761572648",
+      "groups": {
+        "-FKMTKrazy -": "/proxy/api/imgchest/chapter/vj4jemmd278"
+      }
+    },
+    "010": {
+      "title": "Notice",
+      "volume": "02",
+      "last_updated": "1761572670",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/9rydq225w4k"
+      }
+    },
+    "011": {
+      "title": "Strength",
+      "volume": "02",
+      "last_updated": "1761572692",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/pg73doo9zyr"
+      }
+    },
+    "012": {
+      "title": "Sensei",
+      "volume": "02",
+      "last_updated": "1761572715",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/n87w9nnvzyx"
+      }
+    },
+    "013": {
+      "title": "Japan",
+      "volume": "02",
+      "last_updated": "1761572739",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/lqyedllv37d"
+      }
+    },
+    "014": {
+      "title": "Stocking Up",
+      "volume": "02",
+      "last_updated": "1761572761",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/qe4gmqqlr4j"
+      }
+    },
+    "015": {
+      "title": "Goddesses",
+      "volume": "02",
+      "last_updated": "1761572784",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/agyvxnn6978"
+      }
+    },
+    "016": {
+      "title": "Confiscation",
+      "volume": "02",
+      "last_updated": "1761572808",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/ne7bl66pny5"
+      }
+    },
+    "017": {
+      "title": "Fists",
+      "volume": "03",
+      "last_updated": "1761572838",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/na7kakkrq48"
+      }
+    },
+    "018": {
+      "title": "Treasure",
+      "volume": "03",
+      "last_updated": "1761572862",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/vj4jemm3278"
+      }
+    },
+    "019": {
+      "title": "Oranges",
+      "volume": "03",
+      "last_updated": "1761572887",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/ej7maeenb7d"
+      }
+    },
+    "020": {
+      "title": "Prey",
+      "volume": "03",
+      "last_updated": "1761572911",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/pg73doopzyr"
+      }
+    },
+    "021": {
+      "title": "Together",
+      "volume": "03",
+      "last_updated": "1761572937",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/lqyedllp37d"
+      }
+    },
+    "022": {
+      "title": "Telling",
+      "volume": "03",
+      "last_updated": "1761572961",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/qe4gmqqrr4j"
+      }
+    },
+    "023": {
+      "title": "Cake",
+      "volume": "03",
+      "last_updated": "1761572987",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/bp45mood2y5"
+      }
+    },
+    "024": {
+      "title": "Water",
+      "volume": "03",
+      "last_updated": "1761573014",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/a8463oogw4x"
+      }
+    },
+    "025": {
+      "title": "Suffering",
+      "volume": "04",
+      "last_updated": "1761573041",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/m9yx9nng3yq"
+      }
+    },
+    "026": {
+      "title": "Friends",
+      "volume": "04",
+      "last_updated": "1761573065",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/92492kkj2yn"
+      }
+    },
+    "027": {
+      "title": "Rescue",
+      "volume": "04",
+      "last_updated": "1761573088",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/9p4nvzzlzyn"
+      }
+    },
+    "028": {
+      "title": "Twisted",
+      "volume": "04",
+      "last_updated": "1761573107",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/dl7pannz67o"
+      }
+    },
+    "029": {
+      "title": "Mother",
+      "volume": "04",
+      "last_updated": "1761573126",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/wl7lawwmpyx"
+      }
+    },
+    "030": {
+      "title": "Funaki",
+      "volume": "04",
+      "last_updated": "1761573148",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/vj4jemmw278"
+      }
+    },
+    "031": {
+      "title": "Disposal",
+      "volume": "04",
+      "last_updated": "1761573168",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/ej7maee2b7d"
+      }
+    },
+    "032": {
+      "title": "Guevara",
+      "volume": "04",
+      "last_updated": "1761573192",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/lqyedll637d"
+      }
+    },
+    "033": {
+      "title": "Greed",
+      "volume": "05",
+      "last_updated": "1761573217",
+      "groups": {
+        "-FKMTKrazy -": "/proxy/api/imgchest/chapter/qb4z5ppj34j"
+      }
+    },
+    "034": {
+      "title": "Compensation",
+      "volume": "05",
+      "last_updated": "1761573236",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/qe4gmqqxr4j"
+      }
+    },
+    "035": {
+      "title": "Revolution",
+      "volume": "05",
+      "last_updated": "1761573256",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/bp45mooz2y5"
+      }
+    },
+    "036": {
+      "title": "Sunset",
+      "volume": "05",
+      "last_updated": "1761573276",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/agyvxnnw978"
+      }
+    },
+    "037": {
+      "title": "Forgiveness",
+      "volume": "05",
+      "last_updated": "1761573295",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/m9yx9nn23yq"
+      }
+    },
+    "038": {
+      "title": "Technique",
+      "volume": "05",
+      "last_updated": "1761573315",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/92492kkg2yn"
+      }
+    },
+    "039": {
+      "title": "Plan",
+      "volume": "05",
+      "last_updated": "1761573336",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/9p4nvzzxzyn"
+      }
+    },
+    "040": {
+      "title": "Umbrellas",
+      "volume": "05",
+      "last_updated": "1761573356",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/ne7bl66vny5"
+      }
+    },
+    "041": {
+      "title": "Merchandise",
+      "volume": "06",
+      "last_updated": "1761573379",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/na7kakkeq48"
+      }
+    },
+    "042": {
+      "title": "Rhinoceros Beetle",
+      "volume": "06",
+      "last_updated": "1761573400",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/5xy2qoo3jyl"
+      }
+    },
+    "043": {
+      "title": "Kabukicho",
+      "volume": "06",
+      "last_updated": "1761573418",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/vj4jemmv278"
+      }
+    },
+    "044": {
+      "title": "Crisis",
+      "volume": "06",
+      "last_updated": "1761573438",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/9rydq22aw4k"
+      }
+    },
+    "045": {
+      "title": "Reckless",
+      "volume": "06",
+      "last_updated": "1761573456",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/ej7maeekb7d"
+      }
+    },
+    "046": {
+      "title": "Border",
+      "volume": "06",
+      "last_updated": "1761573473",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/pg73doowzyr"
+      }
+    },
+    "047": {
+      "title": "Youth",
+      "volume": "06",
+      "last_updated": "1761573492",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/lqyedllq37d"
+      }
+    },
+    "048": {
+      "title": "Traveler",
+      "volume": "06",
+      "last_updated": "1761573513",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/qb4z5ppw34j"
+      }
+    },
+    "049": {
+      "title": "Welcome",
+      "volume": "07",
+      "last_updated": "1761573535",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/bp45moo22y5"
+      }
+    },
+    "050": {
+      "title": "Formal Ceremony",
+      "volume": "07",
+      "last_updated": "1761573555",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/a8463oolw4x"
+      }
+    },
+    "051": {
+      "title": "The Earth Conduction",
+      "volume": "07",
+      "last_updated": "1761573576",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/92492kkd2yn"
+      }
+    },
+    "052": {
+      "title": "Young Men",
+      "volume": "07",
+      "last_updated": "1761573593",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/9p4nvzz3zyn"
+      }
+    },
+    "053": {
+      "title": "Apology",
+      "volume": "07",
+      "last_updated": "1761573612",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/ne7bl662ny5"
+      }
+    },
+    "054": {
+      "title": "Request",
+      "volume": "07",
+      "last_updated": "1761573633",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/md7oabbedyp"
+      }
+    },
+    "055": {
+      "title": "Brothers",
+      "volume": "07",
+      "last_updated": "1761573651",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/na7kakkdq48"
+      }
+    },
+    "056": {
+      "title": "USA",
+      "volume": "07",
+      "last_updated": "1761573675",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/5xy2qoobjyl"
+      }
+    },
+    "057": {
+      "title": "Terrorism",
+      "volume": "08",
+      "last_updated": "1761573698",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/5xy2qoob9yl"
+      }
+    },
+    "058": {
+      "title": "Ambassador",
+      "volume": "08",
+      "last_updated": "1761573717",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/vj4jemmqx78"
+      }
+    },
+    "059": {
+      "title": "Wabi-Sabi",
+      "volume": "08",
+      "last_updated": "1761573739",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/9rydq22xl4k"
+      }
+    },
+    "060": {
+      "title": "Frame",
+      "volume": "08",
+      "last_updated": "1761573761",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/ej7maee9n7d"
+      }
+    },
+    "061": {
+      "title": "Homecoming",
+      "volume": "08",
+      "last_updated": "1761573782",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/pg73doorjyr"
+      }
+    },
+    "062": {
+      "title": "From the Pot",
+      "volume": "08",
+      "last_updated": "1761573806",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/n87w9nnlgyx"
+      }
+    },
+    "063": {
+      "title": "Strategy",
+      "volume": "08",
+      "last_updated": "1761573827",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/o24a266327l"
+      }
+    },
+    "064": {
+      "title": "Observation",
+      "volume": "08",
+      "last_updated": "1761573850",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/agyvxnn2j78"
+      }
+    },
+    "065": {
+      "title": "Disguise",
+      "volume": "09",
+      "last_updated": "1761573874",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/92492kkvmyn"
+      }
+    },
+    "066": {
+      "title": "Training",
+      "volume": "09",
+      "last_updated": "1761573898",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/ne7bl665jy5"
+      }
+    },
+    "067": {
+      "title": "Leader",
+      "volume": "09",
+      "last_updated": "1761573922",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/5xy2qood9yl"
+      }
+    },
+    "068": {
+      "title": "It Begins",
+      "volume": "09",
+      "last_updated": "1761573944",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/vj4jemm9x78"
+      }
+    },
+    "069": {
+      "title": "Sword Skills",
+      "volume": "09",
+      "last_updated": "1761573967",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/6eyrann9g4p"
+      }
+    },
+    "070": {
+      "title": "Apple Beheading",
+      "volume": "09",
+      "last_updated": "1761573989",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/ej7maeewn7d"
+      }
+    },
+    "071": {
+      "title": "Depression",
+      "volume": "09",
+      "last_updated": "1761574011",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/n87w9nndgyx"
+      }
+    },
+    "072": {
+      "title": "Foul Language",
+      "volume": "09",
+      "last_updated": "1761574035",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/qb4z5pped4j"
+      }
+    },
+    "073": {
+      "title": "Canceled",
+      "volume": "10",
+      "last_updated": "1761574059",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/bp45moopqy5"
+      }
+    },
+    "074": {
+      "title": "Devotee",
+      "volume": "10",
+      "last_updated": "1761574082",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/a8463oowo4x"
+      }
+    },
+    "075": {
+      "title": "Demon",
+      "volume": "10",
+      "last_updated": "1761574106",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/92492kkwmyn"
+      }
+    },
+    "076": {
+      "title": "Taboo Words",
+      "volume": "10",
+      "last_updated": "1761574130",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/dl7pannep7o"
+      }
+    },
+    "077": {
+      "title": "Mainstream",
+      "volume": "10",
+      "last_updated": "1761574154",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/na7kakkmb48"
+      }
+    },
+    "078": {
+      "title": "Provocation",
+      "volume": "10",
+      "last_updated": "1761574175",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/6eyrannmg4p"
+      }
+    },
+    "079": {
+      "title": "Doubt",
+      "volume": "10",
+      "last_updated": "1761574199",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/n87w9nnxgyx"
+      }
+    },
+    "080": {
+      "title": "Battlefield",
+      "volume": "10",
+      "last_updated": "1761574234",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/qe4gmqq5j4j"
+      }
+    },
+    "081": {
+      "title": "Downfall",
+      "volume": "11",
+      "last_updated": "1761574257",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/agyvxnn9j78"
+      }
+    },
+    "082": {
+      "title": "Sophistry",
+      "volume": "11",
+      "last_updated": "1761574279",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/md7oabbqryp"
+      }
+    },
+    "083": {
+      "title": "Shriek",
+      "volume": "11",
+      "last_updated": "1761574304",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/5xy2qoo89yl"
+      }
+    },
+    "084": {
+      "title": "Disappointment",
+      "volume": "11",
+      "last_updated": "1761574325",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/wl7laww2qyx"
+      }
+    },
+    "085": {
+      "title": "Revival",
+      "volume": "11",
+      "last_updated": "1761574348",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/9rydq22rl4k"
+      }
+    },
+    "086": {
+      "title": "Gramma",
+      "volume": "11",
+      "last_updated": "1761574371",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/pg73dooljyr"
+      }
+    },
+    "087": {
+      "title": "Ignition",
+      "volume": "11",
+      "last_updated": "1761574395",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/qe4gmqqwj4j"
+      }
+    },
+    "088": {
+      "title": "Legend",
+      "volume": "11",
+      "last_updated": "1761574417",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/bp45mooqqy5"
+      }
+    },
+    "089": {
+      "title": "Back and Forth",
+      "volume": "12",
+      "last_updated": "1761574442",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/m9yx9nn3qyq"
+      }
+    },
+    "090": {
+      "title": "Proposal",
+      "volume": "12",
+      "last_updated": "1761574468",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/9p4nvzz8myn"
+      }
+    },
+    "091": {
+      "title": "Letter of Challenge",
+      "volume": "12",
+      "last_updated": "1761574494",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/dl7pann8p7o"
+      }
+    },
+    "092": {
+      "title": "Wiles",
+      "volume": "12",
+      "last_updated": "1761574517",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/wl7lawwoqyx"
+      }
+    },
+    "093": {
+      "title": "Special Lecture",
+      "volume": "12",
+      "last_updated": "1761574539",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/ljyqakk2n72"
+      }
+    },
+    "094": {
+      "title": "Practice",
+      "volume": "12",
+      "last_updated": "1761574561",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/vj4jemme378"
+      }
+    },
+    "095": {
+      "title": "Compliment",
+      "volume": "12",
+      "last_updated": "1761574586",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/9rydq22qa4k"
+      }
+    },
+    "096": {
+      "title": "Guidebook",
+      "volume": "12",
+      "last_updated": "1761574610",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/pg73doodgyr"
+      }
+    },
+    "097": {
+      "title": "Team",
+      "volume": "13",
+      "last_updated": "1761574635",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/lqyedlldm7d"
+      }
+    },
+    "098": {
+      "title": "Activation",
+      "volume": "13",
+      "last_updated": "1761574658",
+      "groups": {
+        "Lion's Ridge": "/proxy/api/imgchest/chapter/qe4gmqqmq4j"
       }
     }
   }
