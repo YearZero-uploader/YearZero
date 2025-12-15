@@ -356,6 +356,78 @@
       "groups": {
         "YEAR ZERO": "/proxy/api/mangadex/chapter/d16770d2-3b61-4794-84ba-6f0f8da423ec"
       }
+    },
+    "45": {
+      "title": "To Fuurinji Island!",
+      "volume": "6",
+      "last_updated": "1765829579",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/mangadex/chapter/9676c1b7-1003-4d4f-abbc-d760493e3c26"
+      }
+    },
+    "46": {
+      "title": "Escape!",
+      "volume": "6",
+      "last_updated": "1765829605",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/mangadex/chapter/01f3b579-981c-412c-81b9-53211bfb9456"
+      }
+    },
+    "47": {
+      "title": "An Acquaintance?",
+      "volume": "6",
+      "last_updated": "1765829615",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/mangadex/chapter/5a549d60-0781-4037-82e2-568bb12872fc"
+      }
+    },
+    "48": {
+      "title": "The Eight Fists",
+      "volume": "6",
+      "last_updated": "1765829631",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/mangadex/chapter/3700dcc3-a531-4719-ba8a-cda455090b86"
+      }
+    },
+    "49": {
+      "title": "Shaggy Showdown!",
+      "volume": "6",
+      "last_updated": "1765829643",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/mangadex/chapter/9e72148d-41bf-4047-938b-5c274d6a7a4e"
+      }
+    },
+    "50": {
+      "title": "Technique Training!",
+      "volume": "6",
+      "last_updated": "1765829660",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/mangadex/chapter/2a562055-7d86-45e1-bda7-2c9221833da8"
+      }
+    },
+    "51": {
+      "title": "Tracing Mission!",
+      "volume": "6",
+      "last_updated": "1765829692",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/mangadex/chapter/0cc885ce-1d50-4619-88fa-57c52f57d48c"
+      }
+    },
+    "52": {
+      "title": "Kisara's Technique!",
+      "volume": "6",
+      "last_updated": "1765829704",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/mangadex/chapter/0e956ff3-7dfa-4ea8-999d-fceba3040bfe"
+      }
+    },
+    "53": {
+      "title": "The Shinpaku Alliance!",
+      "volume": "6",
+      "last_updated": "1765829719",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/mangadex/chapter/f844cc85-82f7-40cc-b886-60ae13f54d71"
+      }
     }
   }
 }
