@@ -42,7 +42,7 @@
       "volume": "1",
       "last_updated": "1758216136",
       "groups": {
-        "FKMTKrazy":"/proxy/api/imgchest/chapter/6eyrana5x4p"
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/6eyrana5x4p"
       }
     },
     "6": {
@@ -58,7 +58,7 @@
       "volume": "1",
       "last_updated": "1758216509",
       "groups": {
-        "FKMTKrazy":  "/proxy/api/imgchest/chapter/na7kakavb48"
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/na7kakavb48"
       }
     },
     "8": {
@@ -90,7 +90,7 @@
       "volume": "2",
       "last_updated": "1758217309",
       "groups": {
-        "FKMTKrazy":"/proxy/api/imgchest/chapter/lqyedldmm7d"
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/lqyedldmm7d"
       }
     },
     "12": {
@@ -98,7 +98,7 @@
       "volume": "2",
       "last_updated": "1758217434",
       "groups": {
-        "FKMTKrazy":"/proxy/api/imgchest/chapter/bp45momqny5"
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/bp45momqny5"
       }
     },
     "13": {
@@ -106,7 +106,7 @@
       "volume": "2",
       "last_updated": "1758280210",
       "groups": {
-        "FKMTKrazy":"/proxy/api/imgchest/chapter/o24a262nd7l"
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/o24a262nd7l"
       }
     },
     "14": {
@@ -250,7 +250,7 @@
       "volume": "4",
       "last_updated": "1758280241",
       "groups": {
-        "FKMTKrazy":"/proxy/api/imgchest/chapter/wl7lawawxyx"
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/wl7lawawxyx"
       }
     },
     "32": {
@@ -290,7 +290,7 @@
       "volume": "4",
       "last_updated": "1758220243",
       "groups": {
-        "FKMTKrazy":"/proxy/api/imgchest/chapter/xny8e6e9wyb"
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/xny8e6e9wyb"
       }
     },
     "37": {
@@ -346,7 +346,7 @@
       "volume": "5",
       "last_updated": "1758220886",
       "groups": {
-        "FKMTKrazy":"/proxy/api/imgchest/chapter/9p4nvzv65yn"
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/9p4nvzv65yn"
       }
     },
     "44": {
@@ -371,6 +371,14 @@
       "last_updated": "1759001832",
       "groups": {
         "FKMTKrazy": "/proxy/api/imgchest/chapter/vj4jemen378"
+      }
+    },
+    "47": {
+      "title": "Temptation",
+      "volume": "5",
+      "last_updated": "1766652814",
+      "groups": {
+        "FKMTKrazy": "/proxy/api/imgchest/chapter/KCvIT8GsDU"
       }
     }
   }
