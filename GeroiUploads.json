@@ -39,7 +39,7 @@
     },
     "5": {
       "title": "Paramushir",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1756422958",
       "groups": {
         "Year Zero": "/proxy/api/imgchest/chapter/o24a26qa27l"
@@ -47,7 +47,7 @@
     },
     "6": {
       "title": "Bombing",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1758983650",
       "groups": {
         "Year Zero": "/proxy/api/imgchest/chapter/dl7panekp7o"
@@ -55,10 +55,18 @@
     },
     "7": {
       "title": "Family",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1761074229",
       "groups": {
         "Year Zero": "/proxy/api/imgchest/chapter/wl7lawg3qyx"
+      }
+    },
+    "8": {
+      "title": "Secret Meeting",
+      "volume": "2",
+      "last_updated": "1767038191",
+      "groups": {
+        "Year Zero": "/proxy/api/imgchest/chapter/wl7lwda634x"
       }
     }
   }
