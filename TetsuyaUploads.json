@@ -12,6 +12,22 @@
       "groups": {
         "Shinjuku'sBest": "/proxy/api/mangadex/chapter/2fae608d-594c-443b-9813-d7b2b40e1939"
       }
+    },
+    "79": {
+      "title": "People's Hearts",
+      "volume": "10",
+      "last_updated": "1768178924",
+      "groups": {
+        "Shinjuku'sBest": "/proxy/api/mangadex/chapter/bef2defd-6f1f-4dbf-ab1f-e9ef738b5346"
+      }
+    },
+    "80": {
+      "title": "Dragged-Out Torture",
+      "volume": "10",
+      "last_updated": "1768178924",
+      "groups": {
+        "Shinjuku'sBest": "/proxy/api/mangadex/chapter/64dc8fee-0604-408f-a19a-18c6332bdda5"
+      }
     }
   }
 }
