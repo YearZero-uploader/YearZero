@@ -28,6 +28,22 @@
       "groups": {
         "Shinjuku'sBest": "/proxy/api/mangadex/chapter/64dc8fee-0604-408f-a19a-18c6332bdda5"
       }
+    },
+    "81": {
+      "title": "Ox Walk Tactics",
+      "volume": "10",
+      "last_updated": "1769310758",
+      "groups": {
+        "Shinjuku'sBest": "/proxy/api/mangadex/chapter/44686a23-2bff-4fbb-8acd-b6ba25065615"
+      }
+    },
+    "82": {
+      "title": "The Canary That Forgot It's Song",
+      "volume": "10",
+      "last_updated": "1769310758",
+      "groups": {
+        "Shinjuku'sBest": "/proxy/api/mangadex/chapter/c5a5f2f3-2a27-4639-8496-8a265132b4af"
+      }
     }
   }
 }
