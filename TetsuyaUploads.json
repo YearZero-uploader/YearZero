@@ -44,6 +44,22 @@
       "groups": {
         "Shinjuku'sBest": "/proxy/api/mangadex/chapter/c5a5f2f3-2a27-4639-8496-8a265132b4af"
       }
+    },
+    "83": {
+      "title": "Leopard's Spots",
+      "volume": "10",
+      "last_updated": "1770346019",
+      "groups": {
+        "Shinjuku'sBest": "/proxy/api/mangadex/chapter/35ac4660-d6c4-444f-9d8e-378b0673b5cb"
+      }
+    },
+    "84": {
+      "title": "Full-Throttle Horsepower",
+      "volume": "10",
+      "last_updated": "1770346019",
+      "groups": {
+        "Shinjuku'sBest": "/proxy/api/mangadex/chapter/ffc84df8-9c20-4b62-8bb4-89b7a61f579f"
+      }
     }
   }
 }
