@@ -1,0 +1,121 @@
+{
+  "title": "Ichinichi Gaishutsuroku Hanchou",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "010": {
+      "title": "Hamaguri Gate",
+      "last_updated": "1772053339",
+      "groups": {
+        "-Endless Moment-": "/proxy/api/imgchest/chapter/qe4g8dxxo7j"
+      },
+      "volume": "01"
+    },
+    "011": {
+      "title": "Youth",
+      "last_updated": "1772053359",
+      "groups": {
+        "-Endless Moment-": "/proxy/api/imgchest/chapter/o24ampvag4l"
+      },
+      "volume": "01"
+    },
+    "012": {
+      "title": "Secret Ingredient",
+      "last_updated": "1772053379",
+      "groups": {
+        "-Endless Moment-": "/proxy/api/imgchest/chapter/ne7b3wv2ky5"
+      },
+      "volume": "01"
+    },
+    "013": {
+      "title": "Geezer Hunting",
+      "last_updated": "1772053402",
+      "groups": {
+        "-Endless Moment-": "/proxy/api/imgchest/chapter/5xy2gp3bn7l"
+      },
+      "volume": "01"
+    },
+    "014": {
+      "title": "Demon",
+      "last_updated": "1772053420",
+      "groups": {
+        "-Endless Moment-": "/proxy/api/imgchest/chapter/ljyq69z8e42"
+      },
+      "volume": "01"
+    },
+    "015": {
+      "title": "Careful Observation",
+      "last_updated": "1772053441",
+      "groups": {
+        "-Endless Moment-": "/proxy/api/imgchest/chapter/6eyr6g8xkyp"
+      },
+      "volume": "01"
+    },
+    "015.5": {
+      "title": "Natural",
+      "last_updated": "1772053444",
+      "groups": {
+        "-Endless Moment-": "/proxy/api/imgchest/chapter/ej7m6mk3q4d"
+      },
+      "volume": "01"
+    },
+    "016": {
+      "title": "Paradise",
+      "last_updated": "1772053465",
+      "groups": {
+        "-Endless Moment-": "/proxy/api/imgchest/chapter/n87wj6ge34x"
+      },
+      "volume": "01"
+    },
+    "017": {
+      "title": "Summit",
+      "last_updated": "1772053485",
+      "groups": {
+        "-Endless Moment-": "/proxy/api/imgchest/chapter/bp45nxz3x45"
+      },
+      "volume": "01"
+    },
+    "018": {
+      "title": "Autumn Fish",
+      "last_updated": "1772053504",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/m9yxqk2jm7q"
+      },
+      "volume": "01"
+    },
+    "019": {
+      "title": "Disarray",
+      "last_updated": "1772053522",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/ne7b3wv5ky5"
+      },
+      "volume": "01"
+    },
+    "020": {
+      "title": "Boon",
+      "last_updated": "1772053540",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/md7ovgx9ayp"
+      },
+      "volume": "01"
+    },
+    "103.5": {
+      "title": "Master",
+      "last_updated": "1772053811",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/vj4j6dvk5y8"
+      },
+      "volume": "01"
+    },
+    "111.5": {
+      "title": "Explosive Rise",
+      "last_updated": "1772053840",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/vj4j6dvk2y8"
+      },
+      "volume": "01"
+    }
+  }
+}
