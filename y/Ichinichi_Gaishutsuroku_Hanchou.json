@@ -1,0 +1,633 @@
+{
+  "title": "Ichinichi Gaishutsuroku Hanchou",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "010": {
+      "title": "Hamaguri Gate",
+      "last_updated": "1772053339",
+      "groups": {
+        "-Endless Moment-": "/proxy/api/imgchest/chapter/qe4g8dxxo7j"
+      },
+      "volume": "01"
+    },
+    "011": {
+      "title": "Youth",
+      "last_updated": "1772053359",
+      "groups": {
+        "-Endless Moment-": "/proxy/api/imgchest/chapter/o24ampvag4l"
+      },
+      "volume": "01"
+    },
+    "012": {
+      "title": "Secret Ingredient",
+      "last_updated": "1772053379",
+      "groups": {
+        "-Endless Moment-": "/proxy/api/imgchest/chapter/ne7b3wv2ky5"
+      },
+      "volume": "01"
+    },
+    "013": {
+      "title": "Geezer Hunting",
+      "last_updated": "1772053402",
+      "groups": {
+        "-Endless Moment-": "/proxy/api/imgchest/chapter/5xy2gp3bn7l"
+      },
+      "volume": "01"
+    },
+    "014": {
+      "title": "Demon",
+      "last_updated": "1772053420",
+      "groups": {
+        "-Endless Moment-": "/proxy/api/imgchest/chapter/ljyq69z8e42"
+      },
+      "volume": "01"
+    },
+    "015": {
+      "title": "Careful Observation",
+      "last_updated": "1772053441",
+      "groups": {
+        "-Endless Moment-": "/proxy/api/imgchest/chapter/6eyr6g8xkyp"
+      },
+      "volume": "01"
+    },
+    "015.5": {
+      "title": "Natural",
+      "last_updated": "1772053444",
+      "groups": {
+        "-Endless Moment-": "/proxy/api/imgchest/chapter/ej7m6mk3q4d"
+      },
+      "volume": "01"
+    },
+    "016": {
+      "title": "Paradise",
+      "last_updated": "1772053465",
+      "groups": {
+        "-Endless Moment-": "/proxy/api/imgchest/chapter/n87wj6ge34x"
+      },
+      "volume": "01"
+    },
+    "017": {
+      "title": "Summit",
+      "last_updated": "1772053485",
+      "groups": {
+        "-Endless Moment-": "/proxy/api/imgchest/chapter/bp45nxz3x45"
+      },
+      "volume": "01"
+    },
+    "018": {
+      "title": "Autumn Fish",
+      "last_updated": "1772053504",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/m9yxqk2jm7q"
+      },
+      "volume": "01"
+    },
+    "019": {
+      "title": "Disarray",
+      "last_updated": "1772053522",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/ne7b3wv5ky5"
+      },
+      "volume": "01"
+    },
+    "020": {
+      "title": "Boon",
+      "last_updated": "1772053540",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/md7ovgx9ayp"
+      },
+      "volume": "01"
+    },
+    "103.5": {
+      "title": "Master",
+      "last_updated": "1772053811",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/vj4j6dvk5y8"
+      },
+      "volume": "01"
+    },
+    "111.5": {
+      "title": "Explosive Rise",
+      "last_updated": "1772053840",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/vj4j6dvk2y8"
+      },
+      "volume": "01"
+    },
+    "021": {
+      "title": "6-Tatami",
+      "last_updated": "1772109426",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/5xy2gpor97l"
+      },
+      "volume": "01"
+    },
+    "022": {
+      "title": "Tomorrow",
+      "last_updated": "1772109445",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/vj4j6dmxxy8"
+      },
+      "volume": "01"
+    },
+    "023": {
+      "title": "New Year's Eve",
+      "last_updated": "1772109460",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/ljyq69kjn42"
+      },
+      "volume": "01"
+    },
+    "024": {
+      "title": "Timebomb",
+      "last_updated": "1772109475",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/wl7l6xwex7x"
+      },
+      "volume": "01"
+    },
+    "025": {
+      "title": "Meandering",
+      "last_updated": "1772109486",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/vj4j6dmr3y8"
+      },
+      "volume": "01"
+    },
+    "026": {
+      "title": "High and Low",
+      "last_updated": "1772109498",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/9ryde52va4k"
+      },
+      "volume": "01"
+    },
+    "027": {
+      "title": "Silent Message",
+      "last_updated": "1772109509",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/ej7m6meg94d"
+      },
+      "volume": "01"
+    },
+    "028": {
+      "title": "Falling Asleep",
+      "last_updated": "1772109519",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/pg7389ozg4r"
+      },
+      "volume": "01"
+    },
+    "029": {
+      "title": "Insubstantial",
+      "last_updated": "1772109531",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/lqyez3l9myd"
+      },
+      "volume": "01"
+    },
+    "030": {
+      "title": "Financial Review",
+      "last_updated": "1772109545",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/qb4zr9pa57j"
+      },
+      "volume": "01"
+    },
+    "031": {
+      "title": "Descent of the Scumbags",
+      "last_updated": "1772109556",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/qe4g8dqoq7j"
+      },
+      "volume": "01"
+    },
+    "032": {
+      "title": "Soup Soaking",
+      "last_updated": "1772109576",
+      "groups": {
+        "- Endless Moment-": "/proxy/api/imgchest/chapter/xny89x6b24b"
+      },
+      "volume": "01"
+    },
+    "033": {
+      "title": "Miyamoto's Birthday",
+      "last_updated": "1772120972",
+      "groups": {
+        "- Endless Moment-": "/proxy/api/imgchest/chapter/dl7p6jrj34o"
+      },
+      "volume": "01"
+    },
+    "034": {
+      "title": "Time Rush",
+      "last_updated": "1772120989",
+      "groups": {
+        "- Endless Moment-": "/proxy/api/imgchest/chapter/md7ovgdg2yp"
+      },
+      "volume": "01"
+    },
+    "035": {
+      "title": "Beautiful Dreamer",
+      "last_updated": "1772121007",
+      "groups": {
+        "- Endless Moment-": "/proxy/api/imgchest/chapter/na7knz2z378"
+      },
+      "volume": "01"
+    },
+    "036": {
+      "title": "Bran-Kawa",
+      "last_updated": "1772121021",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/ljyq69mqd42"
+      },
+      "volume": "01"
+    },
+    "037": {
+      "title": "Ripening",
+      "last_updated": "1772121035",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/6eyr6g32xyp"
+      },
+      "volume": "01"
+    },
+    "038": {
+      "title": "In Tokyo",
+      "last_updated": "1772121047",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/lqyez3wvmyd"
+      },
+      "volume": "01"
+    },
+    "039": {
+      "title": "Battlefield",
+      "last_updated": "1772121059",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/qb4zr9l357j"
+      },
+      "volume": "01"
+    },
+    "040": {
+      "title": "A Song of Celebration",
+      "last_updated": "1772121076",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/qe4g8dzlq7j"
+      },
+      "volume": "01"
+    },
+    "041": {
+      "title": "Love Stories",
+      "last_updated": "1772121091",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/bp45nxj8n45"
+      },
+      "volume": "01"
+    },
+    "042": {
+      "title": "Designation",
+      "last_updated": "1772121107",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/a8469aqxz4x"
+      },
+      "volume": "01"
+    },
+    "043": {
+      "title": "Spiral Shell",
+      "last_updated": "1772121120",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/m9yxqk5vp7q"
+      },
+      "volume": "01"
+    },
+    "044": {
+      "title": "Insurrectionists",
+      "last_updated": "1772121135",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/92499zmab4n"
+      },
+      "volume": "01"
+    },
+    "119.5": {
+      "title": "Good Rest",
+      "last_updated": "1772121403",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/pg73892jg4r"
+      },
+      "volume": "01"
+    },
+    "045": {
+      "title": "Good Sake",
+      "last_updated": "1772130563",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/qb4zr9b5l7j"
+      },
+      "volume": "01"
+    },
+    "046": {
+      "title": "Car Trip",
+      "last_updated": "1772130575",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/xny89xwew4b"
+      },
+      "volume": "01"
+    },
+    "047": {
+      "title": "Packed",
+      "last_updated": "1772130608",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/a8469am324x"
+      },
+      "volume": "01"
+    },
+    "048": {
+      "title": "Beauty Sweat",
+      "last_updated": "1772130625",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/5xy2gpjo37l"
+      },
+      "volume": "01"
+    },
+    "049": {
+      "title": "Sleepwalking",
+      "last_updated": "1772130660",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/5xy2gpjo87l"
+      },
+      "volume": "01"
+    },
+    "050": {
+      "title": "Messiah",
+      "last_updated": "1772130678",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/wl7l6x8wo7x"
+      },
+      "volume": "01"
+    },
+    "051": {
+      "title": "Humming",
+      "last_updated": "1772130693",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/ljyq69bkk42"
+      },
+      "volume": "01"
+    },
+    "052": {
+      "title": "Heated Forging",
+      "last_updated": "1772130708",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/6eyr6gbn6yp"
+      },
+      "volume": "01"
+    },
+    "053": {
+      "title": "Taking It In",
+      "last_updated": "1772130723",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/lqyez3rlkyd"
+      },
+      "volume": "01"
+    },
+    "054": {
+      "title": "Gentleman",
+      "last_updated": "1772130736",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/qe4g8d3qb7j"
+      },
+      "volume": "01"
+    },
+    "055": {
+      "title": "Buying Clothes",
+      "last_updated": "1772130750",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/bp45nxrog45"
+      },
+      "volume": "01"
+    },
+    "056": {
+      "title": "Food That Dad Makes",
+      "last_updated": "1772130766",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/m9yxqkbdk7q"
+      },
+      "volume": "01"
+    },
+    "057": {
+      "title": "Kyushu",
+      "last_updated": "1772133804",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/pg7389ajj4r"
+      },
+      "volume": "01"
+    },
+    "058": {
+      "title": "Master and Servant",
+      "last_updated": "1772133818",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/qb4zr92kd7j"
+      },
+      "volume": "01"
+    },
+    "059": {
+      "title": "Walking Tour",
+      "last_updated": "1772133834",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/qe4g8d9rj7j"
+      },
+      "volume": "01"
+    },
+    "060": {
+      "title": "Good Dog",
+      "last_updated": "1772133851",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/o24amp9k24l"
+      },
+      "volume": "01"
+    },
+    "061": {
+      "title": "Sweets Talk",
+      "last_updated": "1772133865",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/agyvldpej78"
+      },
+      "volume": "01"
+    },
+    "062": {
+      "title": "Delicious- By",
+      "last_updated": "1772133885",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/9p4n6eolm7n"
+      },
+      "volume": "01"
+    },
+    "063": {
+      "title": "Silent Night",
+      "last_updated": "1772133899",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/dl7p6jpzp4o"
+      },
+      "volume": "01"
+    },
+    "064": {
+      "title": "Catching Fish",
+      "last_updated": "1772133917",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/na7knzpwb78"
+      },
+      "volume": "01"
+    },
+    "065": {
+      "title": "3-Tatami",
+      "last_updated": "1772133933",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/vj4j6dpwxy8"
+      },
+      "volume": "01"
+    },
+    "066": {
+      "title": "Going To Tokyo",
+      "last_updated": "1772133950",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/5xy2gp53z7l"
+      },
+      "volume": "01"
+    },
+    "067": {
+      "title": "Iron Man",
+      "last_updated": "1772133966",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/9ryde59aa4k"
+      },
+      "volume": "01"
+    },
+    "068": {
+      "title": "Squadron",
+      "last_updated": "1772133983",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/pg7389awg4r"
+      },
+      "volume": "01"
+    },
+    "069": {
+      "title": "Starting Point",
+      "last_updated": "1772133999",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/lqyez3k6myd"
+      },
+      "volume": "01"
+    },
+    "070": {
+      "title": "One Encounter",
+      "last_updated": "1772140185",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/qb4zr9vw57j"
+      },
+      "volume": "01"
+    },
+    "071": {
+      "title": "Not Yet Eaten",
+      "last_updated": "1772140203",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/xny89xkq24b"
+      },
+      "volume": "01"
+    },
+    "072": {
+      "title": "Diary",
+      "last_updated": "1772140221",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/agyvld8vb78"
+      },
+      "volume": "01"
+    },
+    "073": {
+      "title": "Self-Restraint",
+      "last_updated": "1772140239",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/ne7b3wz2my5"
+      },
+      "volume": "01"
+    },
+    "074": {
+      "title": "Self-Catering",
+      "last_updated": "1772140257",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/md7ovgre2yp"
+      },
+      "volume": "01"
+    },
+    "075": {
+      "title": "Scorching Heat",
+      "last_updated": "1772140274",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/5xy2gpvdz7l"
+      },
+      "volume": "01"
+    },
+    "076": {
+      "title": "Love at First Sight",
+      "last_updated": "1772140291",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/vj4j6d293y8"
+      },
+      "volume": "01"
+    },
+    "077": {
+      "title": "Food Urges",
+      "last_updated": "1772140308",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/6eyr6gwvxyp"
+      },
+      "volume": "01"
+    },
+    "078": {
+      "title": "Sheltering From The Rain",
+      "last_updated": "1772140325",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/pg7389xrg4r"
+      },
+      "volume": "01"
+    },
+    "079": {
+      "title": "Amusement Park",
+      "last_updated": "1772140342",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/lqyez35amyd"
+      },
+      "volume": "01"
+    },
+    "080": {
+      "title": "Marriage Talk",
+      "last_updated": "1772140359",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/xny89xk324b"
+      },
+      "volume": "01"
+    },
+    "081": {
+      "title": "Miniscule",
+      "last_updated": "1772140374",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/a8469abpz4x"
+      },
+      "volume": "01"
+    },
+    "082": {
+      "title": "Sugar-Off",
+      "last_updated": "1772140393",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/ne7b3wz5my5"
+      },
+      "volume": "01"
+    },
+    "114": {
+      "title": "Scumbag Line-up",
+      "last_updated": "1772140517",
+      "groups": {
+        "-No Group-": "/proxy/api/imgchest/chapter/pg7389xgg4r"
+      },
+      "volume": "01"
+    }
+  }
+}
