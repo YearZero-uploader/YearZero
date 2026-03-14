@@ -1,0 +1,17 @@
+{
+  "title": "Naki No Ryuu",
+  "description": "Follow Ryu as he plays in the mahjong world with gangsters, crooks, and all sorts of people.",
+  "artist": "Noujou Junichi",
+  "author": "Noujou Junichi",
+  "cover": "https://mangadex.org/covers/5c8a66fb-05ae-4a56-9f8b-b3a8248b4531/462b145a-028b-40a4-8a87-8cf21406a8f1.jpg",
+  "chapters": {
+    "23": {
+      "title": "Aisabi",
+      "volume": "4",
+      "last_updated": "1773452267",
+      "groups": {
+        "Year Zero": "/proxy/api/mangadex/chapter/20f3e42d-b4a0-4fb0-94e4-14b4dd9f1d11"
+      }
+    }
+  }
+}
