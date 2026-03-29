@@ -12,6 +12,14 @@
       "groups": {
         "Year Zero": "/proxy/api/mangadex/chapter/20f3e42d-b4a0-4fb0-94e4-14b4dd9f1d11"
       }
+    },
+    "24": {
+      "title": "Fukahi",
+      "volume": "4",
+      "last_updated": "1774753345",
+      "groups": {
+        "Year Zero": "/proxy/api/mangadex/chapter/e54bf702-0ed9-4f84-9902-6ed8ddd024cb"
+      }
     }
   }
 }
