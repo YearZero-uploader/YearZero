@@ -20,6 +20,22 @@
       "groups": {
         "Year Zero": "/proxy/api/mangadex/chapter/e54bf702-0ed9-4f84-9902-6ed8ddd024cb"
       }
+    },
+    "25": {
+      "title": "Kuro Tsurubami",
+      "volume": "4",
+      "last_updated": "1775363023",
+      "groups": {
+        "Year Zero": "/proxy/api/mangadex/chapter/92366627-044a-4d57-aa6c-881fa634e121"
+      }
+    },
+    "26": {
+      "title": "Shion",
+      "volume": "4",
+      "last_updated": "1775363023",
+      "groups": {
+        "Year Zero": "/proxy/api/mangadex/chapter/50b9d27b-d20e-4a75-b7a8-5e50960df491"
+      }
     }
   }
 }
