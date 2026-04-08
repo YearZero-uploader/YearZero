@@ -5,7 +5,7 @@ type Props = {
 };
 
 export default function SeriesCard({ series }: Props) {
-  const { title, description, artist, author, cover, chapterCount } = series;
+  const { title, description, artist, author, cover, chapterCount, url } = series;
   const credit = artist === author ? author : `${author} / ${artist}`;
   const excerpt =
     description.length > 120
@@ -13,7 +13,12 @@ export default function SeriesCard({ series }: Props) {
       : description;
 
   return (
-    <article className="card-glass rounded-2xl overflow-hidden flex flex-col group">
+    <a
+      href={url}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="card-glass rounded-2xl overflow-hidden flex flex-col group"
+    >
       {/* Cover */}
       <div
         className="relative overflow-hidden"
@@ -55,6 +60,6 @@ export default function SeriesCard({ series }: Props) {
           {excerpt}
         </p>
       </div>
-    </article>
+    </a>
   );
 }
