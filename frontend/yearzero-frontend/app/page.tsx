@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Home() {
   return (
     <>
@@ -7,7 +9,7 @@ export default function Home() {
       {/* ── Navigation ── */}
       <header className="nav-blur fixed top-0 left-0 right-0 z-50">
         <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
-          <a href="#" className="flex items-center gap-2.5">
+          <Link href="/" className="flex items-center gap-2.5">
             <span
               className="w-7 h-7 rounded-md flex items-center justify-center text-white text-xs font-black tracking-tighter"
               style={{ background: "var(--accent)" }}
@@ -15,7 +17,7 @@ export default function Home() {
               YZ
             </span>
             <span className="font-semibold text-sm tracking-wide">Year Zero</span>
-          </a>
+          </Link>
 
           <nav className="hidden md:flex items-center gap-7 text-sm" style={{ color: "var(--muted)" }}>
             <a href="#features" className="hover:text-foreground transition-colors duration-200" style={{ color: "inherit" }}>
@@ -24,9 +26,9 @@ export default function Home() {
             <a href="#about" className="hover:text-foreground transition-colors duration-200" style={{ color: "inherit" }}>
               About
             </a>
-            <a href="#stats" className="hover:text-foreground transition-colors duration-200" style={{ color: "inherit" }}>
-              Discover
-            </a>
+            <Link href="/library" className="hover:text-foreground transition-colors duration-200" style={{ color: "inherit" }}>
+              Library
+            </Link>
           </nav>
 
           <a href="#get-started" className="btn-primary px-4 py-2 rounded-lg text-sm font-medium">
