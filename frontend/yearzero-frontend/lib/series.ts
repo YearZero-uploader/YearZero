@@ -7,11 +7,13 @@ export type Series = {
   chapterCount: number;
   slug: string;
   url: string;
+  section: string;
 };
 
 type CatalogEntry = {
   title: string;
   url: string;
+  section: string;
 };
 
 export async function getAllSeries(): Promise<Series[]> {
@@ -31,7 +33,7 @@ export async function getAllSeries(): Promise<Series[]> {
   }
 
   const results = await Promise.all(
-    entries.map(async ({ title: slug, url }) => {
+    entries.map(async ({ title: slug, url, section }) => {
       try {
         const raw = await fs.readFile(path.join(root, `${slug}.json`), "utf-8");
         const { chapters, ...meta } = JSON.parse(raw);
@@ -40,12 +42,13 @@ export async function getAllSeries(): Promise<Series[]> {
           chapterCount: chapters ? Object.keys(chapters).length : 0,
           slug,
           url,
+          section,
         } as Series;
       } catch (err) {
         console.error(`[getAllSeries] Failed to load "${slug}.json":`, err);
         return null;
       }
-    })
+    }),
   );
 
   return results.filter(Boolean) as Series[];

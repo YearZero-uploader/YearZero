@@ -3,8 +3,8 @@
 :root {
   --background: #080808;
   --foreground: #f1f5f9;
-  --accent: #e11d48;
-  --muted: #64748b;
+  --accent: #e41b0d;
+  --muted: #b5bbc4;
   --card-bg: rgba(255, 255, 255, 0.03);
   --card-border: rgba(255, 255, 255, 0.07);
 }
@@ -14,17 +14,6 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: light) {
-  :root {
-    --background: #f8fafc;
-    --foreground: #0f172a;
-    --accent: #e11d48;
-    --muted: #64748b;
-    --card-bg: rgba(0, 0, 0, 0.02);
-    --card-border: rgba(0, 0, 0, 0.08);
-  }
 }
 
 * {
@@ -37,6 +26,17 @@ body {
   font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
 }
 
+.page-bg {
+  min-height: 100vh;
+  background:
+    radial-gradient(
+      ellipse 150% 60% at 50% 0%,
+      rgba(0, 25, 247, 0.6) 0%,
+      rgba(17, 37, 221, 0) 100%
+    ),
+    var(--background);
+}
+
 .nav-blur {
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
@@ -44,16 +44,13 @@ body {
   border-bottom: 1px solid var(--card-border);
 }
 
-@media (prefers-color-scheme: light) {
-  .nav-blur {
-    background: rgba(248, 250, 252, 0.8);
-  }
-}
-
 .card-glass {
   background: var(--card-bg);
   border: 1px solid var(--card-border);
-  transition: border-color 0.3s ease, background 0.3s ease, transform 0.3s ease;
+  transition:
+    border-color 0.3s ease,
+    background 0.3s ease,
+    transform 0.3s ease;
 }
 
 .card-glass:hover {

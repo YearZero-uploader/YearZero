@@ -5,7 +5,8 @@ type Props = {
 };
 
 export default function SeriesCard({ series }: Props) {
-  const { title, description, artist, author, cover, chapterCount, url } = series;
+  const { title, description, artist, author, cover, chapterCount, url } =
+    series;
   const credit = artist === author ? author : `${author} / ${artist}`;
   const excerpt =
     description.length > 120
@@ -32,8 +33,8 @@ export default function SeriesCard({ series }: Props) {
           loading="lazy"
         />
         <div
-          className="absolute top-2 right-2 px-2 py-0.5 rounded-md text-[10px] font-bold text-white"
-          style={{ background: "rgba(0,0,0,0.7)", backdropFilter: "blur(6px)" }}
+          className="absolute top-2 right-2 px-2 py-0.5 rounded-md text-[13px] font-bold text-white"
+          style={{ background: "rgba(0,0,0,0.8)", backdropFilter: "blur(6px)" }}
         >
           {chapterCount} ch
         </div>
@@ -42,19 +43,19 @@ export default function SeriesCard({ series }: Props) {
       {/* Info */}
       <div className="p-4 flex flex-col gap-2 flex-1">
         <h2
-          className="font-bold text-sm leading-snug tracking-tight line-clamp-2"
+          className="font-bold text-md leading-snug tracking-tight line-clamp-2"
           style={{ color: "var(--foreground)" }}
         >
           {title}
         </h2>
         <p
-          className="text-[11px] font-medium truncate"
+          className="text-[14px] font-medium truncate"
           style={{ color: "var(--accent)" }}
         >
           {credit}
         </p>
         <p
-          className="text-[11px] leading-relaxed line-clamp-3 mt-auto pt-1"
+          className="text-[13px] leading-relaxed line-clamp-3 "
           style={{ color: "var(--muted)" }}
         >
           {excerpt}

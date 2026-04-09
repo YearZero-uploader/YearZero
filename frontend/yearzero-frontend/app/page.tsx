@@ -1,37 +1,51 @@
 import { getAllSeries } from "@/lib/series";
 import Navbar from "@/components/Navbar";
 import SeriesCard from "./SeriesCard";
-
+import LibrarySegment from "./LibrarySegment";
 export default async function Home() {
   const series = (await getAllSeries()).sort((a, b) =>
-    a.title.localeCompare(b.title)
+    a.title.localeCompare(b.title),
   );
 
   return (
-    <div style={{ background: "var(--background)", minHeight: "100vh" }}>
+    <div className="page-bg">
       <Navbar />
 
       <div className="pt-28 pb-8 px-6 max-w-6xl mx-auto">
-        <p
-          className="text-xs uppercase tracking-widest font-semibold mb-1"
-          style={{ color: "var(--accent)" }}
+        <div
+          className="text-xl uppercase tracking-widest font-bold mb-2 justify-center flex"
+          style={{ fontSize: "50px", whiteSpace: "pre" }}
         >
-          {series.length} Series
-        </p>
+          <p>{"T H I S  I S  T H E  B E G I N N I N G ."}</p>
+        </div>
+        <div className="justify-center flex">
+          <p>{`A product of the Open Source Resistance.`}</p>
+        </div>
+
         <h1
           className="font-black text-4xl md:text-5xl tracking-tighter"
           style={{ color: "var(--foreground)" }}
         >
-          The Library
+          {"𝐒εⓇᶤᵉ𝓢 Ｌ𝓘ⓢŦ:"}
         </h1>
       </div>
 
       <main className="max-w-6xl mx-auto px-6 pb-16">
-        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-5">
-          {series.map((s) => (
-            <SeriesCard key={s.slug} series={s} />
-          ))}
-        </div>
+        <LibrarySegment
+          series={series.filter((s) => s.section == "A")}
+          title={"Active Releases"}
+          subtitle="An updated list of all the current projects taken by YZ"
+        />
+        <LibrarySegment
+          series={series.filter((s) => s.section == "D")}
+          title={"Finished Projects"}
+          subtitle="All completed projects by YZ"
+        />
+        <LibrarySegment
+          series={series.filter((s) => s.section == "U")}
+          title={"Archive"}
+          subtitle="Important works that we decided to archive for posterity. No direct connection to YZ"
+        />
       </main>
     </div>
   );
