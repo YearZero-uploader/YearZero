@@ -6,8 +6,16 @@ type Props = {
 };
 
 export default function SeriesCard({ series }: Props) {
-  const { title, description, artist, author, cover, chapterCount, url } =
-    series;
+  const {
+    title,
+    description,
+    artist,
+    author,
+    cover,
+    chapterCount,
+    url,
+    last_updated,
+  } = series;
   const credit = artist === author ? author : `${author} / ${artist}`;
   const excerpt =
     description.length > 120
@@ -15,56 +23,14 @@ export default function SeriesCard({ series }: Props) {
       : description;
   const [hasNew, setHasNew] = useState(false);
   function isNewChapter() {
-    const data = JSON.parse(
-      localStorage.getItem(`${title} ChapterCount`) ?? "null",
-    );
+    const savedTime = new Date(last_updated * 1000);
 
-    if (data === null) {
-      localStorage.setItem(
-        `${title} ChapterCount`,
-        JSON.stringify({
-          chapterCount: chapterCount.toString(),
-          // eslint-disable-next-line react-hooks/purity
-          time: Date.now(),
-        }),
-      );
-      return false;
-    }
-
-    const savedTime = new Date(data.time);
     const diffTimeFromCheck =
       savedTime.getTime() > Date.now() - 1000 * 60 * 60 * 24;
-    if (data.chapterCount != chapterCount.toString()) {
-      localStorage.setItem(
-        `${title} ChapterCount`,
-        JSON.stringify({
-          chapterCount: chapterCount.toString(),
-          // eslint-disable-next-line react-hooks/purity
-          time: Date.now(),
-        }),
-      );
-      return true;
-    }
-    /* const firstTimeVisit = new Date(
-      Number(localStorage.getItem("firstTimeVisit")),
-    );
-    const diffTimeFromFirstVisit =
-      firstTimeVisit.getTime() > Date.now() - 1000 * 60 * 60 * 24;
 
-    if (diffTimeFromFirstVisit) {
-      return false;
-    }*/
     if (diffTimeFromCheck) {
       return true;
     }
-    localStorage.setItem(
-      `${title} ChapterCount`,
-      JSON.stringify({
-        chapterCount: chapterCount.toString(),
-        // eslint-disable-next-line react-hooks/purity
-        time: Date.now(),
-      }),
-    );
 
     return false;
   }

@@ -5,6 +5,7 @@ export type Series = {
   author: string;
   cover: string;
   chapterCount: number;
+  last_updated: number;
   slug: string;
   url: string;
   section: string;
@@ -37,12 +38,18 @@ export async function getAllSeries(): Promise<Series[]> {
       try {
         const raw = await fs.readFile(path.join(root, `${slug}.json`), "utf-8");
         const { chapters, ...meta } = JSON.parse(raw);
+
+        const chapterValues: { last_updated?: string }[] = chapters
+          ? Object.values(chapters)
+          : [];
         return {
           ...meta,
           chapterCount: chapters ? Object.keys(chapters).length : 0,
           slug,
           url,
           section,
+          last_updated:
+            Math.max(...chapterValues.map((c) => Number(c.last_updated))) || 0,
         } as Series;
       } catch (err) {
         console.error(`[getAllSeries] Failed to load "${slug}.json":`, err);

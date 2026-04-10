@@ -1,11 +1,9 @@
 import Link from "next/link";
 
-import UserTracker from "../app/useIsNewUser";
 export default function Navbar() {
   return (
     <header className="nav-blur fixed top-0 left-0 right-0 z-50">
       <div className="max-w-6xl mx-auto px-6 h-16 flex items-center">
-        <UserTracker />
         <Link href="/" className="flex items-center gap-2.5">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
