@@ -1,5 +1,6 @@
+"use client";
 import type { Series } from "@/lib/series";
-
+import { useEffect, useState } from "react";
 type Props = {
   series: Series;
 };
@@ -12,7 +13,66 @@ export default function SeriesCard({ series }: Props) {
     description.length > 120
       ? description.slice(0, 120).trimEnd() + "…"
       : description;
+  const [hasNew, setHasNew] = useState(false);
+  function isNewChapter() {
+    const data = JSON.parse(
+      localStorage.getItem(`${title} ChapterCount`) ?? "null",
+    );
 
+    if (data === null) {
+      localStorage.setItem(
+        `${title} ChapterCount`,
+        JSON.stringify({
+          chapterCount: chapterCount.toString(),
+          // eslint-disable-next-line react-hooks/purity
+          time: Date.now(),
+        }),
+      );
+      return false;
+    }
+
+    const savedTime = new Date(data.time);
+    const diffTimeFromCheck =
+      savedTime.getTime() > Date.now() - 1000 * 60 * 60 * 24;
+    if (data.chapterCount != chapterCount.toString()) {
+      localStorage.setItem(
+        `${title} ChapterCount`,
+        JSON.stringify({
+          chapterCount: chapterCount.toString(),
+          // eslint-disable-next-line react-hooks/purity
+          time: Date.now(),
+        }),
+      );
+      return true;
+    }
+    /* const firstTimeVisit = new Date(
+      Number(localStorage.getItem("firstTimeVisit")),
+    );
+    const diffTimeFromFirstVisit =
+      firstTimeVisit.getTime() > Date.now() - 1000 * 60 * 60 * 24;
+
+    if (diffTimeFromFirstVisit) {
+      return false;
+    }*/
+    if (diffTimeFromCheck) {
+      return true;
+    }
+    localStorage.setItem(
+      `${title} ChapterCount`,
+      JSON.stringify({
+        chapterCount: chapterCount.toString(),
+        // eslint-disable-next-line react-hooks/purity
+        time: Date.now(),
+      }),
+    );
+
+    return false;
+  }
+  useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    setHasNew(isNewChapter());
+  }, []);
+  // isNewChapter();
   return (
     <a
       href={url}
@@ -32,6 +92,18 @@ export default function SeriesCard({ series }: Props) {
           className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
           loading="lazy"
         />
+        {hasNew && (
+          <div
+            className="absolute -left-10 top-5 -rotate-45 px-10 py-0.5 text-[18px] font-bold tracking-widest text-white text-center"
+            style={{
+              background: "rgba(255, 0, 0, 0.8)",
+              backdropFilter: "blur(6px)",
+              border: "2px solid rgba(0, 0, 0, 0.8)",
+            }}
+          >
+            NEW!!!
+          </div>
+        )}
         <div
           className="absolute top-2 right-2 px-2 py-0.5 rounded-md text-[13px] font-bold text-white"
           style={{ background: "rgba(0,0,0,0.8)", backdropFilter: "blur(6px)" }}

@@ -1,6 +1,7 @@
 import { getAllSeries } from "@/lib/series";
 import Navbar from "@/components/Navbar";
 import SeriesCard from "./SeriesCard";
+
 import LibrarySegment from "./LibrarySegment";
 export default async function Home() {
   const series = (await getAllSeries()).sort((a, b) =>
@@ -10,7 +11,6 @@ export default async function Home() {
   return (
     <div className="page-bg">
       <Navbar />
-
       <div className="pt-28 pb-8 px-6 max-w-6xl mx-auto">
         <div
           className="text-xl uppercase tracking-widest font-bold mb-2 justify-center flex"
@@ -29,7 +29,6 @@ export default async function Home() {
           {"𝐒εⓇᶤᵉ𝓢 Ｌ𝓘ⓢŦ:"}
         </h1>
       </div>
-
       <main className="max-w-6xl mx-auto px-6 pb-16">
         <LibrarySegment
           series={series.filter((s) => s.section == "A")}
