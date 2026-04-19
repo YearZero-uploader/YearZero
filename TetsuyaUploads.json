@@ -84,6 +84,22 @@
       "groups": {
         "Shinjuku'sBest": "/proxy/api/mangadex/chapter/f6297f21-f5f0-4aaf-a564-3f6932495467"
       }
+    },
+    "88": {
+      "title": "Path of Sincerity",
+      "volume": "11",
+      "last_updated": "1776567646",
+      "groups": {
+        "Shinjuku'sBest": "/proxy/api/mangadex/chapter/e1fadccf-d820-444b-bac2-2f3df4ad0f66"
+      }
+    },
+    "89": {
+      "title": "Gambler Killer",
+      "volume": "11",
+      "last_updated": "1776567646",
+      "groups": {
+        "Shinjuku'sBest": "/proxy/api/mangadex/chapter/00661e15-3cfd-400c-9b3d-ab8b3c4f13c4"
+      }
     }
   }
 }
