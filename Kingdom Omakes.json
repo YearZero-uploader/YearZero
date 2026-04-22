@@ -5869,6 +5869,22 @@
         "Sense Scans": "/proxy/api/imgchest/chapter/n87w9pmwgyx"
       }
     },
+    "833": {
+      "title": "Critical Counsel",
+      "volume": "76",
+      "last_updated": "1776816806",
+      "groups": {
+        "YEAR ZERO & 3GG": "/proxy/api/imgchest/chapter/vj4j5l9b278"
+      }
+    },
+    "834": {
+      "title": "Han Army's Morale",
+      "volume": "76",
+      "last_updated": "1776816882",
+      "groups": {
+        "YEAR ZERO & 3GG": "/proxy/api/imgchest/chapter/bp45jg3lqy5"
+      }
+    },
     "001.0": {
       "title": "Nameless Boy",
       "volume": "01",
@@ -6963,6 +6979,22 @@
       "last_updated": "1765992374",
       "groups": {
         "YEAR ZERO": "/proxy/api/imgchest/chapter/agyvnxw6j48"
+      }
+    },
+    "822.5": {
+      "title": "Omake",
+      "volume": "75",
+      "last_updated": "1776816667",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgchest/chapter/md7odm9rdyp"
+      }
+    },
+    "834.5": {
+      "title": "Omake",
+      "volume": "76",
+      "last_updated": "1776816741",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgchest/chapter/agyvg52o9y8"
       }
     }
   }
