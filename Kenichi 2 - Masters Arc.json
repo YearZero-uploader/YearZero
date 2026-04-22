@@ -52,6 +52,14 @@
       "groups": {
         "YEAR ZERO": "/proxy/api/mangadex/chapter/f115b10d-1a9c-48f5-9061-a1224ec1c627"
       }
+    },
+    "5.5": {
+      "title": "The Optimal Place",
+      "volume": "1",
+      "last_updated": "1776873653",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/mangadex/chapter/205ab209-da95-4e6e-9d68-cdd71aff0397"
+      }
     }
   }
 }
