@@ -692,6 +692,14 @@
       "groups": {
         "YEAR ZERO": "/proxy/api/mangadex/chapter/c1b17b2c-02a3-4cba-86a8-f301dad9df31"
       }
+    },
+    "87": {
+      "title": "Get Him",
+      "volume": "10",
+      "last_updated": "1777598746",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/mangadex/chapter/a6d0eb10-d658-4bf3-8a8a-83acfb1797b5"
+      }
     }
   }
 }
