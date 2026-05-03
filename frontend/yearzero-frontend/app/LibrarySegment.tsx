@@ -6,8 +6,24 @@ type Props = {
   title: string;
   subtitle: string;
 };
+const seriesOrder = [
+  "GeroiUploads",
+  "TetsuyaUploads",
+  "KenichiUploads",
+  "Kenichi 2 - Masters Arc",
+  "NakiNoRyuuUploads",
+  "ShinKurosawaUpload",
+  "Kingdom Omakes",
+];
 
 export default function LibrarySegment({ series, title, subtitle }: Props) {
+  if (title == "Active Releases") {
+    series.sort((a, b) => {
+      const aIndex = seriesOrder.indexOf(a.slug);
+      const bIndex = seriesOrder.indexOf(b.slug);
+      return aIndex - bIndex;
+    });
+  }
   return (
     <section className="mb-12">
       <p
