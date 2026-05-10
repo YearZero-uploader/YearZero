@@ -116,6 +116,22 @@
       "groups": {
         "Shinjuku'sBest": "/proxy/api/mangadex/chapter/f0eaa3a4-d58d-4a74-b5a2-d6cf0bdd2ff1"
       }
+    },
+    "92": {
+      "title": "Crackdown on Shinjuku",
+      "volume": "11",
+      "last_updated": "1778374410",
+      "groups": {
+        "Shinjuku'sBest": "/proxy/api/mangadex/chapter/1f898fe3-1ae1-427f-b2a3-b1d89c597333"
+      }
+    },
+    "93": {
+      "title": "Night and Day",
+      "volume": "11",
+      "last_updated": "1778374410",
+      "groups": {
+        "Shinjuku'sBest": "/proxy/api/mangadex/chapter/7c14be9b-bc84-4dc4-9446-4ee1995a83bf"
+      }
     }
   }
 }
