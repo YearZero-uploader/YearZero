@@ -1,6 +1,37 @@
 import type { Series } from "@/lib/series";
 import SeriesCard from "./SeriesCard";
-
+import {
+  Syne_Mono,
+  Lacquer,
+  Rock_Salt,
+  Nothing_You_Could_Do,
+  IM_Fell_DW_Pica_SC,
+  Gloria_Hallelujah,
+} from "next/font/google";
+const SyneMono = Syne_Mono({
+  weight: "400",
+  subsets: ["latin"],
+});
+const Lacquer1 = Lacquer({
+  weight: "400",
+  subsets: ["latin"],
+});
+const RockSalt = Rock_Salt({
+  weight: "400",
+  subsets: ["latin"],
+});
+const NothingYouCouldDo = Nothing_You_Could_Do({
+  weight: "400",
+  subsets: ["latin"],
+});
+const IMFellDWPicaSC = IM_Fell_DW_Pica_SC({
+  weight: "400",
+  subsets: ["latin"],
+});
+const GloriaHallelujah = Gloria_Hallelujah({
+  weight: "400",
+  subsets: ["latin"],
+});
 type Props = {
   series: Series[];
   title: string;
@@ -33,13 +64,13 @@ export default function LibrarySegment({ series, title, subtitle }: Props) {
         {series.length} Series
       </p>
       <h1
-        className="font-black text-4xl md:text-5xl tracking-tighter "
+        className={`font-black text-4xl md:text-5xl tracking-tighter ${SyneMono.className}`}
         style={{ color: "var(--foreground)" }}
       >
-        {title}
+        {title.toUpperCase()}
       </h1>
       <h2
-        className="font-black text-xl md:text-2xl tracking-tighter mb-10"
+        className={`font-black text-xl md:text-2xl tracking-tighter mb-10 ${GloriaHallelujah.className}`}
         style={{ color: "var(--foreground)" }}
       >
         {subtitle}

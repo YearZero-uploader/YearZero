@@ -81,7 +81,7 @@ export default function SeriesCard({ series }: Props) {
       {/* Info */}
       <div className="p-4 flex flex-col gap-2 flex-1">
         <h2
-          className="font-bold text-md leading-snug tracking-tight line-clamp-2"
+          className="text-[13px] font-bold text-md leading-snug tracking-tight line-clamp-2"
           style={{ color: "var(--foreground)" }}
         >
           {title}
@@ -107,11 +107,11 @@ export default function SeriesCard({ series }: Props) {
               borderRadius: "16px",
               padding: "2px 8px",
               boxShadow:
-                "0 0 0 1px rgba(255,255,255,0.6), 0 0 24px 8px rgba(255,255,255,0.20), 0 4px 20px rgba(0,0,0,0.08)",
+                "0 0 0 1px rgba(255,255,255,0.6), 0 0 24px 8px rgba(255,255,255,0.15), 0 4px 20px rgba(0,0,0,0.08)",
             }}
           >
             <img
-              src="/YearZero/FKMTKrazy_logo_by_Portal_alt1forsite.png"
+              src="/YearZero/FKMTKrazy_logo_by_Portal_alt2forsite.png"
               alt=""
               width="100"
             />
