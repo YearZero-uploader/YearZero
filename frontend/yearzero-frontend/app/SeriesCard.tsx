@@ -99,12 +99,23 @@ export default function SeriesCard({ series }: Props) {
           {excerpt}
         </p>
         {title == "Nikaidou Hell Golf" ? (
-          <img
-            src="/YearZero/FKMTKrazy logo by Portal.png"
-            alt=""
-            width="200"
-            height="100"
-          />
+          <div
+            style={{
+              maxWidth: "100px",
+              display: "inline-block",
+              background: "#ffffff",
+              borderRadius: "16px",
+              padding: "2px 8px",
+              boxShadow:
+                "0 0 0 1px rgba(255,255,255,0.6), 0 0 24px 8px rgba(255,255,255,0.20), 0 4px 20px rgba(0,0,0,0.08)",
+            }}
+          >
+            <img
+              src="/YearZero/FKMTKrazy_logo_by_Portal_alt1forsite.png"
+              alt=""
+              width="100"
+            />
+          </div>
         ) : (
           <div></div>
         )}
