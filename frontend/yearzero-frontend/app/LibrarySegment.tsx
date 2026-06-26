@@ -44,6 +44,7 @@ const seriesOrder = [
   "Kenichi 2 - Masters Arc",
   "NakiNoRyuuUploads",
   "ShinKurosawaUpload",
+  "NikaidouUploads",
   "Kingdom Omakes",
 ];
 

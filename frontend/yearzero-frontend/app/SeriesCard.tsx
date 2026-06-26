@@ -81,7 +81,7 @@ export default function SeriesCard({ series }: Props) {
       {/* Info */}
       <div className="p-4 flex flex-col gap-2 flex-1">
         <h2
-          className="text-[13px] font-bold text-md leading-snug tracking-tight line-clamp-2"
+          className="text-[13text-[14px]text-[14px]text-[14px]text-[14px]px] font-bold text-md leading-snug tracking-tight line-clamp-2"
           style={{ color: "var(--foreground)" }}
         >
           {title}
