@@ -98,6 +98,16 @@ export default function SeriesCard({ series }: Props) {
         >
           {excerpt}
         </p>
+        {title == "Nikaidou Hell Golf" ? (
+          <img
+            src="/YearZero/FKMTKrazy logo by Portal.png"
+            alt=""
+            width="200"
+            height="100"
+          />
+        ) : (
+          <div></div>
+        )}
       </div>
     </a>
   );
