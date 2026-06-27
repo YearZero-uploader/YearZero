@@ -98,7 +98,7 @@ export default function SeriesCard({ series }: Props) {
         >
           {excerpt}
         </p>
-        {FKMYKrazy_Uploads.indexOf(title) > 0 ? (
+        {FKMYKrazy_Uploads.indexOf(title) > -1 ? (
           <div
             style={{
               maxWidth: "100px",
