@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 type Props = {
   series: Series;
 };
-
+const FKMYKrazy_Uploads = ["Nikaidou Hell Golf" /*"A Dad's Dad"*/];
 export default function SeriesCard({ series }: Props) {
   const {
     title,
@@ -98,7 +98,7 @@ export default function SeriesCard({ series }: Props) {
         >
           {excerpt}
         </p>
-        {title == "Nikaidou Hell Golf" ? (
+        {FKMYKrazy_Uploads.indexOf(title) > 0 ? (
           <div
             style={{
               maxWidth: "100px",
