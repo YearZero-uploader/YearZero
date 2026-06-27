@@ -29,7 +29,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Year Zero",
-  description: "Join the resistance.",
+  description: "JOIN THE RESISTANCE.",
 };
 
 export default function RootLayout({
