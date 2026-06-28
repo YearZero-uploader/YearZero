@@ -68,6 +68,14 @@
       "groups": {
         "Year Zero": "/proxy/api/mangadex/chapter/7f91b73f-c1db-4d2f-b37d-e4e984527d57"
       }
+    },
+        "31": {
+      "title": "Ikkonzome",
+      "volume": "5",
+      "last_updated": "1782606615",
+      "groups": {
+        "Year Zero": "/proxy/api/mangadex/chapter/60846466-6016-4aa8-9df0-aabb67b50db8"
+      }
     }
   }
 }
