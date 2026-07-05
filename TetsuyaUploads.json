@@ -140,6 +140,22 @@
       "groups": {
         "Shinjuku'sBest": "/proxy/api/mangadex/chapter/880f6675-143f-4645-baa0-3ec77e4395c3"
       }
+    },
+    "95": {
+      "title": "Memories of Sayoko",
+      "volume": "12",
+      "last_updated": "1783283565",
+      "groups": {
+        "Shinjuku'sBest": "/proxy/api/mangadex/chapter/37a8170c-e786-4bcf-a90a-7134f6263a8c"
+      }
+    },
+    "96": {
+      "title": "Kumata's Pitch-Darkness",
+      "volume": "12",
+      "last_updated": "1783283565",
+      "groups": {
+        "Shinjuku'sBest": "/proxy/api/mangadex/chapter/0898dd83-3c3c-433a-b028-2f98303b803a"
+      }
     }
   }
 }
