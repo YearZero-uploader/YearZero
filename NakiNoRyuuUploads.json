@@ -76,6 +76,22 @@
       "groups": {
         "Year Zero": "/proxy/api/mangadex/chapter/60846466-6016-4aa8-9df0-aabb67b50db8"
       }
+    },
+        "32": {
+      "title": "Hisoku",
+      "volume": "5",
+      "last_updated": "1783879465",
+      "groups": {
+        "Year Zero": "/proxy/api/mangadex/chapter/34a8511d-b7b4-41e7-9df2-3e11f8a9bafb"
+      }
+    },
+        "33": {
+      "title": "Kyara",
+      "volume": "5",
+      "last_updated": "1783879465",
+      "groups": {
+        "Year Zero": "/proxy/api/mangadex/chapter/cd021f43-6074-436e-adf6-7f9be8ab176c"
+      }
     }
   }
 }
