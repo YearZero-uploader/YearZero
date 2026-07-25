@@ -164,6 +164,14 @@
       "groups": {
         "Shinjuku'sBest": "/proxy/api/mangadex/chapter/19d98848-70d3-4c30-b6ca-eb4cba5e487d"
       }
+    },
+        "98": {
+      "title": "What Shishibana Showed",
+      "volume": "12",
+      "last_updated": "1785007794",
+      "groups": {
+        "Shinjuku'sBest": "/proxy/api/mangadex/chapter/ebda0bfd-0d2b-42fe-9130-75b56c64d635"
+      }
     }
   }
 }
