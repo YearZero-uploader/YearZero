@@ -157,6 +157,14 @@
         "YEAR ZERO": "/proxy/api/imgchest/chapter/na7kldaz3y8"
       }
     },
+    "19": {
+      "title": "The Visitor From Yami",
+      "volume": "1",
+      "last_updated": "1786221670",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgchest/chapter/wl7ljwxvoyx"
+      }
+    },
     "5.5": {
       "title": "The Optimal Place",
       "volume": "1",
@@ -171,6 +179,14 @@
       "last_updated": "1778251548",
       "groups": {
         "YEAR ZERO": "/proxy/api/imgchest/chapter/ljyqe52qey2"
+      }
+    },
+    "19.5": {
+      "title": "Volume 1 Special Notice Manga",
+      "volume": "1",
+      "last_updated": "1786221696",
+      "groups": {
+        "YEAR ZERO": "/proxy/api/imgchest/chapter/5xy2vop9n7l"
       }
     }
   }
