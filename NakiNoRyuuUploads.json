@@ -100,6 +100,14 @@
       "groups": {
         "Year Zero": "/proxy/api/mangadex/chapter/e6e2a7a4-17fe-4697-b2ab-d526ccc5c9d4"
       }
+    },
+        "35": {
+      "title": "Kikujin",
+      "volume": "5",
+      "last_updated": "1786246347",
+      "groups": {
+        "Year Zero": "/proxy/api/mangadex/chapter/61c14aca-eed0-4e1f-b1f5-3bdb4105a311"
+      }
     }
   }
 }
