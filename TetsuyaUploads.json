@@ -172,6 +172,22 @@
       "groups": {
         "Shinjuku'sBest": "/proxy/api/mangadex/chapter/ebda0bfd-0d2b-42fe-9130-75b56c64d635"
       }
+    },
+        "99": {
+      "title": "Revealing Light",
+      "volume": "12",
+      "last_updated": "1786861244",
+      "groups": {
+        "Shinjuku'sBest": "/proxy/api/mangadex/chapter/076a6ab9-5fc3-4524-bade-5f1314e57a88"
+      }
+    },
+        "100": {
+      "title": "Shoot The Spotter!",
+      "volume": "12",
+      "last_updated": "1786861244",
+      "groups": {
+        "Shinjuku'sBest": "/proxy/api/mangadex/chapter/acd6f894-4cbd-4b9c-8c71-cd880fa06268"
+      }
     }
   }
 }
