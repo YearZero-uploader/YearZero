@@ -188,6 +188,22 @@
       "groups": {
         "Shinjuku'sBest": "/proxy/api/mangadex/chapter/acd6f894-4cbd-4b9c-8c71-cd880fa06268"
       }
+    },
+        "101": {
+      "title": "Glass Sparrow",
+      "volume": "12",
+      "last_updated": "1788288228",
+      "groups": {
+        "Shinjuku'sBest": "/proxy/api/mangadex/chapter/4258a24a-c37e-443a-b7ff-9f3e2ea1eff1"
+      }
+    },
+        "102": {
+      "title": "Silver Tongue Cut Off",
+      "volume": "12",
+      "last_updated": "1788288228",
+      "groups": {
+        "Shinjuku'sBest": "/proxy/api/mangadex/chapter/89586715-da62-4bb1-a1e9-40b3184bb210"
+      }
     }
   }
 }
