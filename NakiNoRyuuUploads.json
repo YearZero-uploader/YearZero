@@ -116,6 +116,14 @@
       "groups": {
         "Year Zero": "/proxy/api/mangadex/chapter/b4336f96-0d86-4d58-90d6-fac05848441e"
       }
+    },
+        "37": {
+      "title": "Kurenai",
+      "volume": "5",
+      "last_updated": "1788663005",
+      "groups": {
+        "Year Zero": "/proxy/api/mangadex/chapter/f0ecaecd-6571-462e-9187-f70d888b7cf8"
+      }
     }
   }
 }
