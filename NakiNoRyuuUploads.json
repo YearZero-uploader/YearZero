@@ -124,6 +124,14 @@
       "groups": {
         "Year Zero": "/proxy/api/mangadex/chapter/f0ecaecd-6571-462e-9187-f70d888b7cf8"
       }
+    },
+        "38": {
+      "title": "Tekkon",
+      "volume": "6",
+      "last_updated": "1792958893",
+      "groups": {
+        "Year Zero": "/proxy/api/mangadex/chapter/9a2bfd72-b18d-45f7-b9a0-13753869b175"
+      }
     }
   }
 }
