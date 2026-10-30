@@ -4,7 +4,10 @@ import { useEffect, useState } from "react";
 type Props = {
   series: Series;
 };
-const FKMYKrazy_Uploads = ["Nikaidou Hell Golf" /*"A Dad's Dad"*/];
+const FKMYKrazy_Uploads = [
+  "Nikaidou Hell Golf",
+  "Aoi and Teppei" /*"A Dad's Dad"*/,
+];
 export default function SeriesCard({ series }: Props) {
   const {
     title,
