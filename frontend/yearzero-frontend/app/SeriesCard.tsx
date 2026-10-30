@@ -1,13 +1,10 @@
 "use client";
 import type { Series } from "@/lib/series";
 import { useEffect, useState } from "react";
+import siteConfig, { asset } from "@/site.config";
 type Props = {
   series: Series;
 };
-const FKMYKrazy_Uploads = [
-  "Nikaidou Hell Golf",
-  "Aoi and Teppei" /*"A Dad's Dad"*/,
-];
 export default function SeriesCard({ series }: Props) {
   const {
     title,
@@ -24,12 +21,14 @@ export default function SeriesCard({ series }: Props) {
     description.length > 120
       ? description.slice(0, 120).trimEnd() + "…"
       : description;
+  const badge = siteConfig.badges[title];
   const [hasNew, setHasNew] = useState(false);
   function isNewChapter() {
     const savedTime = new Date(last_updated * 1000);
 
     const diffTimeFromCheck =
-      savedTime.getTime() > Date.now() - 1000 * 60 * 60 * 24;
+      savedTime.getTime() >
+      Date.now() - 1000 * 60 * 60 * siteConfig.newChapter.withinHours;
 
     if (diffTimeFromCheck) {
       return true;
@@ -70,7 +69,7 @@ export default function SeriesCard({ series }: Props) {
               border: "2px solid rgba(0, 0, 0, 0.8)",
             }}
           >
-            NEW!!!
+            {siteConfig.newChapter.label}
           </div>
         )}
         <div
@@ -101,7 +100,7 @@ export default function SeriesCard({ series }: Props) {
         >
           {excerpt}
         </p>
-        {FKMYKrazy_Uploads.indexOf(title) > -1 ? (
+        {badge ? (
           <div
             style={{
               maxWidth: "100px",
@@ -113,10 +112,11 @@ export default function SeriesCard({ series }: Props) {
                 "0 0 0 1px rgba(255,255,255,0.6), 0 0 24px 8px rgba(255,255,255,0.15), 0 4px 20px rgba(0,0,0,0.08)",
             }}
           >
+            {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
-              src="/YearZero/FKMTKrazy_logo_by_Portal_alt2forsite.png"
-              alt=""
-              width="100"
+              src={asset(badge.src)}
+              alt={badge.alt ?? ""}
+              width={badge.width}
             />
           </div>
         ) : (

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono, Coda, Changa, Aldrich } from "next/font/google";
+import siteConfig from "@/site.config";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -28,8 +29,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Year Zero",
-  description: "JOIN THE RESISTANCE.",
+  title: siteConfig.name,
+  description: siteConfig.description,
 };
 
 export default function RootLayout({
