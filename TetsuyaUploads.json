@@ -212,6 +212,22 @@
       "groups": {
         "Shinjuku'sBest": "/proxy/api/mangadex/chapter/904c08d7-45c7-4a6c-a4ef-c572f21304f1"
       }
+    },
+        "104": {
+      "title": "The City Where Gamblers Disappear",
+      "volume": "13",
+      "last_updated": "1793582768",
+      "groups": {
+        "Shinjuku'sBest": "/proxy/api/mangadex/chapter/89baf191-dbf5-4eda-a47d-abb5e5de4345"
+      }
+    },
+        "105": {
+      "title": "Mahjong Before Buddha",
+      "volume": "13",
+      "last_updated": "1793582768",
+      "groups": {
+        "Shinjuku'sBest": "/proxy/api/mangadex/chapter/50692e16-971d-4728-98d0-eb1ce07be3c9"
+      }
     }
   }
 }
