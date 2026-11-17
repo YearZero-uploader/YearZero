@@ -228,6 +228,14 @@
       "groups": {
         "Shinjuku'sBest": "/proxy/api/mangadex/chapter/50692e16-971d-4728-98d0-eb1ce07be3c9"
       }
+    },
+        "106": {
+      "title": "Monolith",
+      "volume": "13",
+      "last_updated": "1794877396",
+      "groups": {
+        "Shinjuku'sBest": "/proxy/api/mangadex/chapter/b92b7bab-aa27-4c2b-a438-fb4d331e1677"
+      }
     }
   }
 }
