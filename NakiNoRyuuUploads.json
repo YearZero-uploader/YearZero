@@ -140,6 +140,30 @@
       "groups": {
         "Year Zero": "/proxy/api/mangadex/chapter/891c1a17-e14a-4dd9-8617-a999f158ad71"
       }
+    },
+        "40": {
+      "title": "Hatoba",
+      "volume": "6",
+      "last_updated": "1795387457",
+      "groups": {
+        "Year Zero": "/proxy/api/mangadex/chapter/371b835c-8587-4276-97fa-79ae0a46b9ac"
+      }
+    },
+        "41": {
+      "title": "Enpaku",
+      "volume": "6",
+      "last_updated": "1795387457",
+      "groups": {
+        "Year Zero": "/proxy/api/mangadex/chapter/8ab5d270-7ad5-444d-8d60-2052b003d546"
+      }
+    },
+        "42": {
+      "title": "Ama",
+      "volume": "6",
+      "last_updated": "1795387457",
+      "groups": {
+        "Year Zero": "/proxy/api/mangadex/chapter/3c67eddb-9238-4caa-b453-0fe0187204b2"
+      }
     }
   }
 }
